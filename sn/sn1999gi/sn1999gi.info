@@ -1,0 +1,13 @@
+Name: sn1999gi
+Type: SNIIP
+Zhel: 0.001975
+Redshift_error: 0.000003
+Zcmb: 0.002771
+Distance(m-M): 30.00
+Distance_error(m-M): 0.80
+Distance_method: EPM(leonard02)/SBF(H03)
+Ra:  154.567500
+Dec:  41.441278
+MaxEpoch: 51517.7
+E(B-V)_MW: 0.017
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

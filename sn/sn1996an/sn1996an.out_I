@@ -1,0 +1,13 @@
+SN: sn1996an
+Filter: V
+Npoints: 9
+MJD       1ag    DMag  magsys  Telescope  Detector   Source
+50332.42 15.19 0.02 Landolt   ESO2.2   EFOSC2   Pastorello(2003):PhD Thesis, University of Padova
+50336.25 15.35 0.20 Landolt   ESO1.52   B&C   Pastorello(2003):PhD Thesis, University of Padova
+50359.26 16.21 0.05 Landolt   Danish1.54   DFOSC   Pastorello(2003):PhD Thesis, University of Padova
+50363.38 16.23 0.02 Landolt   ESO2.2   EFOSC2   Pastorello(2003):PhD Thesis, University of Padova
+50379.40 16.36 0.07 Landolt   Dutch0.9   --   Pastorello(2003):PhD Thesis, University of Padova
+50384.30 16.42 0.08 Landolt   Dutch0.9   --   Pastorello(2003):PhD Thesis, University of Padova
+50405.27 16.65 0.10 Landolt   Dutch0.9   --   Pastorello(2003):PhD Thesis, University of Padova
+50450.15 17.23 0.22 Landolt   Dutch0.9   --   Pastorello(2003):PhD Thesis, University of Padova
+50478.06 17.69 0.11 Landolt   Danish1.54   DFOSC   Pastorello(2003):PhD Thesis, University of Padova

@@ -1,0 +1,18 @@
+Name: sn2006be
+Type: SNIIP
+Zhel:     0.0071550000
+Redshift_error:    3.0000000e-05
+Zcmb:     0.0074830000
+Ra:        236.41250
+Dec:        28.088667
+Epoch: 2000
+E(B-V)_MW:      0.026000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: IC 4582
+Host_type: S?
+Distance(m-M):        33.340000
+Distance_error(m-M):       0.19000000
+Distance_method: NED
+Offset(deg):     0.0016382853
+Major_diameter(arcmin):        1.3000000
+Minor_diameter(arcmin):       0.30000000

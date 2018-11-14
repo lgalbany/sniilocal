@@ -1,0 +1,6 @@
+SN: sn1999gn
+Filter: I
+Npoints:          2
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+51532.77	14.82	0.10  -- -- -- OSC
+51571.72	14.69	0.10  -- -- -- OSC

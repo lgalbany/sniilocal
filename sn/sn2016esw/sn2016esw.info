@@ -1,0 +1,11 @@
+Name: sn2016esw
+Type: II
+Zhel:      0.028313
+Redshift_error:    0.000107
+Zcmb:      0.0283942
+Ra:        284.514351   
+Dec:        43.935815
+Epoch: 2000
+E(B-V)_MW:      0.060
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: CGCG229-009

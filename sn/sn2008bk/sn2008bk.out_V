@@ -1,0 +1,19 @@
+SN: sn2008bk
+Filter: V
+Npoints:           15
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+54554.40 12.99 0.10 Landolt   CHASE   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54569.41 12.94 0.05 Landolt   LCO-Dupont   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54595.79 12.99 0.13 Landolt   S.Howerton   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54607.80 13.02 0.06 Landolt   S.Howerton   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54615.85 12.97 0.26 Landolt   S.Howerton   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54650.80 13.07 0.12 Landolt   S.Howerton   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54667.65 13.52 0.13 Landolt   S.Howerton   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54690.63 15.64 0.11 Landolt   S.Howerton   --   Van Dyk et al. 2010:astro-ph/1011.5873
+54723.02 16.02 0.06 Landolt   CalarAlto   CAFOSC   Van Dyk et al. 2010:astro-ph/1011.5873
+54739.93 16.22 0.06 Landolt   CalarAlto   CAFOSC   Van Dyk et al. 2010:astro-ph/1011.5873
+54754.91 16.43 0.06 Landolt   CalarAlto   CAFOSC   Van Dyk et al. 2010:astro-ph/1011.5873
+54805.84 16.87 0.06 Landolt   NOT   ALFOSC    Van Dyk et al. 2010:astro-ph/1011.5873
+55014.37 19.04 0.03 Landolt   SMARTS   ANDICAM   Van Dyk et al. 2010:astro-ph/1011.5873
+55028.36 19.21 0.05 Landolt   SMARTS   ANDICAM   Van Dyk et al. 2010:astro-ph/1011.5873
+55056.16 19.65 0.05 Landolt   NOT   ALFOSC    Van Dyk et al. 2010:astro-ph/1011.5873

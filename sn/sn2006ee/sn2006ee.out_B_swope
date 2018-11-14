@@ -1,0 +1,17 @@
+SN: sn2006ee
+Filter: B_swope
+Npoints:          13
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+53979.50  18.324   0.017   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+53981.25  18.430   0.021   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+53986.25  18.668   0.039   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+53991.25  18.734   0.028   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+53994.25  18.803   0.020   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+53998.25  18.921   0.021   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54001.25  18.934   0.022   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54003.25  18.977   0.018   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54008.25  19.098   0.021   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54025.25  19.216   0.024   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54038.25  19.421   0.022   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54048.25  19.589   0.034   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54068.00  20.641   0.084   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)

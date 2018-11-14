@@ -1,0 +1,15 @@
+Name: sn2005lw
+Type: SNIIP
+Zhel:      0.025718000
+Redshift_error:    9.7000000e-05
+Zcmb:      0.026950000
+Ra:        167.01337
+Dec:       -12.485944
+Epoch: 2000
+E(B-V)_MW:      0.043000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: IC 0672
+Host_type: None
+Offset(deg):     0.0017788468
+Major_diameter(arcmin):       0.50000000
+Minor_diameter(arcmin):       0.20000000

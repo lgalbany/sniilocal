@@ -1,0 +1,5 @@
+SN: sn2016aqw
+Filter: Y_wirc
+Npoints:          1
+MJD         Mag     DMag    magsys  Telescope  Detector   Source
+57547.25	19.07	0.15	--      --         --         OSC	

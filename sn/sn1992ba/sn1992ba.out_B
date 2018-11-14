@@ -1,0 +1,22 @@
+SN: sn1992ba
+Filter: B
+Npoints: 18
+MJD      Mag    DMag  magsys  Telescope  Detector   Source
+48898.39 15.36  0.02  Landolt   ESO2.2   EFOSC2     Pastorello(2003):PhD Thesis, University of Padova
+48899.29 15.39  0.02  Landolt   ESO2.2   EFOSC2     Pastorello(2003):PhD Thesis, University of Padova
+48904.27 15.554 0.021 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48905.33 15.613 0.019 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48908.31 15.828 0.019 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48922.30 16.305 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48940.27 16.654 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48941.29 16.678 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48956.30 16.905 0.016 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48975.36 17.147 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48979.18 17.170 0.012 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+48997.27 17.480 0.019 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+49012.19 18.497 0.017 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+49016.22 19.022 0.022 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+49037.19 20.177 0.065 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+49045.17 20.06  0.07  Landolt   ESO2.2   EFOSC2     Pastorello(2003):PhD Thesis, University of Padova
+49078.13 20.238 0.077 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+49084.05 20.533 0.126 Landolt CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 

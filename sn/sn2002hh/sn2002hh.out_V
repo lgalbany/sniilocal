@@ -1,0 +1,41 @@
+SN: sn2002hh
+Filter: V
+Npoints:           37
+Mag    DMag  magsys  Telescope  Detector   Source                             
+52580.10 17.30 0.07 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)   
+52581.12 17.28 0.04 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52583.10 17.18 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52590.12 17.29 0.03 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52591.81 17.02 0.07 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52594.15 17.20 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52596.11 17.29 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52596.71 17.26 0.06 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52597.73 17.16 0.05 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52598.74 17.26 0.05 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52599.70 17.26 0.05 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52600.67 17.25 0.08 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52601.68 17.28 0.05 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52604.88 17.12 0.09 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52605.12 17.32 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52606.76 17.30 0.08 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52610.09 17.48 0.04 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52610.88 17.17 0.07 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52612.89 17.44 0.05 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52613.77 17.32 0.07 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52620.12 17.45 0.04 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52743.51 19.53 0.16 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52756.51 19.71 0.13 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52765.47 19.52 0.10 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52783.48 19.85 0.16 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52792.46 19.78 0.13 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52801.44 20.16 0.16 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52819.41 20.26 0.19 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52828.38 20.09 0.21 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52837.42 20.74 0.35 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52846.30 20.25 0.25 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006) 
+52582.250    17.139     0.021   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52583.000    17.179     0.014   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52613.250    17.490     0.018   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52620.000    17.507     0.021   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52790.500    20.034     0.167   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52791.500    20.096     0.149   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F

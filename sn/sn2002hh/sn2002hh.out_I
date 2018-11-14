@@ -1,0 +1,53 @@
+SN: sn2002hh
+Filter: I
+Npoints:           49
+Mag    DMag  magsys  Telescope  Detector   Source                             
+52580.10 14.31 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)   
+52581.12 14.27 0.03 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52583.10 14.19 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52590.12 14.29 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52591.81 14.12 0.03 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52594.15 14.24 0.03 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52596.11 14.26 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52596.71 14.10 0.04 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52597.73 14.11 0.04 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52598.74 14.10 0.04 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52599.70 14.12 0.04 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52600.67 14.13 0.07 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52601.68 14.09 0.03 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52604.88 14.07 0.04 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52605.12 14.26 0.04 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52606.76 14.09 0.05 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52608.82 14.00 0.05 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52610.09 14.31 0.04 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52610.88 14.01 0.07 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52612.89 14.12 0.03 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52613.77 14.13 0.04 Landolt C60  SBIG_ST-7 Tsetkov et al. :Variable Stars 27,No4,2007
+52620.12 14.23 0.04 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52701.00 15.28 0.04 Landolt M70 Meade_Pictor Tsetkov et al. :Variable Stars 27,No4,2007
+52725.04 15.46 0.04 Landolt M70 Meade_Pictor Tsetkov et al. :Variable Stars 27,No4,2007
+52743.51 16.01 0.08 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52756.51 16.09 0.07 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52765.47 16.18 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52774.39 15.96 0.07 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52777.94 16.21 0.02 Landolt Md150 SITe Tsetkov et al. :Variable Stars 27,No4,2007
+52783.48 16.08 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52786.96 16.31 0.02 Landolt Md150 SITe Tsetkov et al. :Variable Stars 27,No4,2007
+52792.46 16.33 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52801.44 16.52 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52819.41 16.61 0.04 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52828.38 16.62 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52832.88 16.75 0.02 Landolt Md150 SITe Tsetkov et al. :Variable Stars 27,No4,2007
+52837.42 16.85 0.03 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52846.30 17.01 0.07 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52855.31 16.93 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
+52861.77 17.04 0.02 Landolt Md150 SITe Tsetkov et al. :Variable Stars 27,No4,2007
+52900.94 16.96 0.16 Landolt M70 Apogee47 Tsetkov et al. :Variable Stars 27,No4,2007
+52923.63 17.51 0.02 Landolt Md150 SITe Tsetkov et al. :Variable Stars 27,No4,2007
+52924.60 17.67 0.02 Landolt Md150 SITe Tsetkov et al. :Variable Stars 27,No4,2007 
+52582.250    14.126     0.010   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52583.000    14.128     0.010   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52613.250    14.235     0.010   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52620.000    14.205     0.010   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52790.500    16.368     0.014   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 52791.500    16.415     0.026   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F

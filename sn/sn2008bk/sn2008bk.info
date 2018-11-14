@@ -1,0 +1,14 @@
+Name: sn2008bk
+Type: SNIIP
+Zhel:      0.000757
+Redshift_error:       0.000007
+Zcmb:      -0.000176
+Ra:        359.460083
+Dec:       -32.555972
+Distance(m-M): 28.17
+Distance_error(m-M): 0.43
+Distance_method: NED
+Host_name: NGC 7793
+Host_type: SA(s)d
+E(B-V)_MW: 0.020
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

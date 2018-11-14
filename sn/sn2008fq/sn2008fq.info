@@ -1,0 +1,15 @@
+Name: sn2008fq
+Type: SNIIL/n
+Zhel:      0.010614000
+Redshift_error:    1.3000000e-05
+Zcmb:     0.0098450000
+Ra:        306.27579
+Dec:       -24.807667
+Epoch: 2000
+E(B-V)_MW:      0.056000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 6907
+Host_type: SB(s)bc
+Offset(deg):     0.0022361334
+Major_diameter(arcmin):        3.3000000
+Minor_diameter(arcmin):        2.7000000

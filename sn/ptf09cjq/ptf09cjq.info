@@ -1,0 +1,16 @@
+Name: ptf09cjq
+Type: SNII
+Zhel:    0.019
+Redshift_error:    5.0000000e-05
+Ra:        319.11867
+Dec:        -0.82769
+Epoch: 2000
+E(B-V)_MW:       0.0555
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 7047
+Host_type: SAB(r)b?
+Distance(m-M):        34.54
+Distance_error(m-M):       0.36
+Distance_method: NED
+Major_diameter(arcmin):        1.38
+Minor_diameter(arcmin):        0.69

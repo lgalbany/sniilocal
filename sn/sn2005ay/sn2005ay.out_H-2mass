@@ -1,0 +1,17 @@
+SN: sn2005ay
+Filter: H-2mass
+Npoints:           13
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    53480.15000    14.319     0.034  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53481.21000    14.474     0.034  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53482.17000    14.437     0.027  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53486.18000    14.278     0.018  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53487.17000    14.252     0.022  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53488.17000    14.174     0.031  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53489.16000    14.276     0.022  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53490.15000    14.346     0.021  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53512.22000    14.240     0.023  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53513.22000    14.220     0.025  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53515.22000    14.235     0.025  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53527.14000    14.141     0.017  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    53529.15000    14.198     0.051  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H

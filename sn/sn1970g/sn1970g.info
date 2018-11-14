@@ -1,0 +1,13 @@
+Name: sn1970g
+Type: SNIIP
+Zhel: 0.000804
+Redshift_error: 0.000007
+Zcmb: 0.001207
+Distance(m-M): 29.28
+Distance_error(m-M): 0.03 
+Distance_method: NED
+Ra:  210.753458
+Dec:  54.242444
+MaxEpoch: 40768.0
+E(B-V)_MW: 0.009
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

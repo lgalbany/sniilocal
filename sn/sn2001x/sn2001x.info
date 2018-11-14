@@ -1,0 +1,12 @@
+Name: sn2001x
+Type: SNIIP
+Zhel: 0.004937
+Redshift_error: 0.000003
+Zcmb: 0.005489
+Host_name: NGC5921
+Host_type: SB(r)bc
+Ra:  230.481042
+Dec:  5.061694
+MaxEpoch: 52664.5?
+E(B-V)_MW: 0.040
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

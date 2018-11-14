@@ -1,0 +1,15 @@
+Name: sn2005au
+Type: SNII
+Zhel:      0.018653000
+Redshift_error:    6.0000000e-06
+Zcmb:      0.019478000
+Ra:        199.05175
+Dec:        30.944583
+Epoch: 2000
+E(B-V)_MW:      0.010000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 5056
+Host_type: Scd:
+Offset(deg):     0.0057485553
+Major_diameter(arcmin):        1.7000000
+Minor_diameter(arcmin):        1.0000000

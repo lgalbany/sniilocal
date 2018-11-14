@@ -1,0 +1,14 @@
+SN: sn2012ec
+Filter: J-2mass
+Npoints:            10
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56165.28000    14.240     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56179.34000    14.110     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56195.23000    14.080     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56216.35000    14.050     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56237.12000    14.350     0.060  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56245.20000    14.580     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56266.14000    15.730     0.060  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56283.10000    15.830     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56320	   16.59      0.04   Landolt		 NTT		--	    Jerkstrand et al. 2014: 2014arXiv1410.8393B
+    56344	   17.08      0.04   Landolt		 NTT		--	    Jerkstrand et al. 2014: 2014arXiv1410.8393B

@@ -1,0 +1,15 @@
+Name: sn2016aqw
+Type: II
+Zhel:      0.021688000
+Redshift_error:    6.3000000e-05
+Zcmb:      0.022578000
+Ra:        163.97417
+Dec:        36.863333
+Epoch: 2000
+E(B-V)_MW:      0.015000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: UGC 06036
+Host_type: Sab
+Offset(deg):     0.0051984447
+Major_diameter(arcmin):        1.7600000
+Minor_diameter(arcmin):       0.42000000

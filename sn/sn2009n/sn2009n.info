@@ -1,0 +1,17 @@
+Name: sn2009n
+Type: SNIIP
+Zhel:     0.0034490000
+Redshift_error:    1.3000000e-05
+Zcmb:     0.0046150000
+Ra:        187.78942
+Dec:       -8.0489720
+Epoch: 2000
+E(B-V)_MW:      0.019000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 4487
+Host_type: SAB(rs)cd
+Distance(m-M):        31.490000
+Distance_method: NED
+Offset(deg):      0.021213051
+Major_diameter(arcmin):        4.2000000
+Minor_diameter(arcmin):        2.8000000

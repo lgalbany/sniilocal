@@ -1,0 +1,15 @@
+Name: sn2006ee
+Type: SNIIP
+Zhel:      0.015411000
+Redshift_error:    6.3000000e-05
+Zcmb:      0.014487000
+Ra:        29.897500
+Dec:        14.005444
+Epoch: 2000
+E(B-V)_MW:      0.054000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 0774
+Host_type: S0
+Offset(deg):     0.0038733841
+Major_diameter(arcmin):        1.2500000
+Minor_diameter(arcmin):       0.96000000

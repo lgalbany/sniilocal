@@ -1,0 +1,26 @@
+SN: sn2013ej
+Filter: i_2.5m
+Npoints:           22
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56500.34900    13.272     0.019  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56501.34900    13.071     0.022  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56502.34900    12.927     0.021  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56506.36900    12.760     0.015  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56507.41000    12.640     0.019  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56508.38000    12.690     0.022  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56509.44800    12.591     0.021  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56510.35800    12.575     0.023  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56513.37600    12.522     0.021  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56513.40600    12.572     0.027  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56514.17900    12.514     0.022  Landolt          LCOGT         1m0-10             Valenti et al. 2013: astro-ph/1309.4269
+    56515.17900    12.575     0.018  Landolt          LCOGT         1m0-13             Valenti et al. 2013: astro-ph/1309.4269
+    56516.30000    12.562     0.018  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56517.32200    12.539     0.015  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56520.29100    12.565     0.021  Landolt          LCOGT         1m0-05             Valenti et al. 2013: astro-ph/1309.4269
+    56521.28700    12.550     0.026  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56522.36100    12.590     0.020  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56524.33600    12.631     0.022  Landolt          LCOGT         1m0-05             Valenti et al. 2013: astro-ph/1309.4269
+    56525.31600    12.613     0.020  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56526.31300    12.618     0.023  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56529.30400    12.679     0.026  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56533.46300    12.753     0.022  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269

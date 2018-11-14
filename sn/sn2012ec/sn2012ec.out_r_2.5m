@@ -1,0 +1,42 @@
+SN: sn2012ec
+Filter: r_2.5m
+Npoints:           38
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56154.22000    14.780     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56155.22000    14.810     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56158.23000    14.820     0.010  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56158.34000    14.840     0.050  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56159.31000    14.780     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56160.30000    14.810     0.040  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56165.28000    14.800     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56168.20000    14.850     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56171.08000    14.810     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56173.09000    14.850     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56176.13000    14.840     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56186.20000    14.890     0.040  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56190.24000    14.890     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56196.20000    14.810     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56199.29000    14.880     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56202.01000    14.890     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56202.20000    14.930     0.050  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56204.21000    14.900     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56208.04000    14.850     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56211.05000    14.890     0.010  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56212.19000    14.940     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56217.15000    14.950     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56221.06000    14.960     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56223.52000    15.000     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56226.45000    15.010     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56232.13000    15.150     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56237.12000    15.260     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56242.13000    15.390     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56246.96000    15.630     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56250.19000    16.000     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56253.08000    16.320     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56266.93000    16.650     0.070  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56268.94000    16.800     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56270.95000    16.900     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56277.99000    17.000     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56290.00000    17.100     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56302.81000    17.200     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56346	   17.34      0.15   AB		    LT  	   --	    Jerkstrand et al. 2014: 2014arXiv1410.8394J	

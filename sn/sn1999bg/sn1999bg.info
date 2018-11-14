@@ -1,0 +1,18 @@
+Name: sn1999bg
+Type: SNII
+Zhel:     0.0042530000
+Redshift_error:    3.7000000e-05
+Zcmb:     0.0046720000
+Ra:        181.03042
+Dec:        62.500333
+Epoch: 2000
+E(B-V)_MW:      0.017000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: IC 0758
+Host_type: SB(rs)cd:
+Distance(m-M):        32.120000
+Distance_error(m-M):       0.41000000
+Distance_method: NED
+Offset(deg):      0.010144425
+Major_diameter(arcmin):        1.6500000
+Minor_diameter(arcmin):        1.1500000

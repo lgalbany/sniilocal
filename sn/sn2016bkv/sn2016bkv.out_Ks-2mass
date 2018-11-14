@@ -1,0 +1,14 @@
+SN: sn2016bkv
+Filter: Ks-2mass
+Npoints:           10
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    57471.70000    14.910     0.030  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57472.70000    14.680     0.030  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57474.70000    14.680     0.030  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57475.70000    14.520     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57486.60000    14.450     0.070  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57493.60000    14.590     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57497.70000    14.520     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57525.60000    14.420     0.060  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57530.60000    14.600     0.080  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57586.50000    14.290     0.080  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065

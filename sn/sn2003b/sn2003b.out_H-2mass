@@ -1,0 +1,12 @@
+SN: sn2003b
+Filter: H-2mass
+Npoints: 8
+MJD       Mag       DMag  magsys  Telescope  Detector   Source
+52650.160  14.893    0.074      Landolt        ??        ??         CATS (Giuliano priv. comm)
+52653.054  14.745    0.013      Landolt        ??        ??         CATS (Giuliano priv. comm)
+52681.103  14.939    0.052      Landolt        ??        ??         CATS (Giuliano priv. comm)
+52710.031  15.782    0.189      Landolt        ??        ??         CATS (Giuliano priv. comm)
+52719.009  16.844    0.215      Landolt        ??        ??         CATS (Giuliano priv. comm)
+52720.004  16.693    0.076      Landolt        ??        ??         CATS (Giuliano priv. comm)
+52720.989  16.541    0.516      Landolt        ??        ??         CATS (Giuliano priv. comm)
+52721.994  16.716    0.163      Landolt        ??        ??         CATS (Giuliano priv. comm)

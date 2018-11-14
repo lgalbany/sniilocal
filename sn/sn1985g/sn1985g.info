@@ -1,0 +1,10 @@
+Name: sn1985g
+Type: SNII
+Zhel: 0.00258
+Redshift_error: 0.00001 
+Ra:        187.16833
+Dec:       9.26111
+Epoch: 2000
+E(B-V)_MW:       0.0162
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 4451

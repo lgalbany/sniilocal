@@ -1,0 +1,23 @@
+SN: sn2013ej
+Filter: V_swift
+Npoints:           19
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56503.96000    12.690     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56504.82000    12.610     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56512.18000    12.480     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56513.21000    12.540     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56515.78000    12.580     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56517.83000    12.600     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56519.99000    12.570     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56521.65000    12.660     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56523.72000    12.690     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56526.84000    12.890     0.030  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56531.74000    12.970     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56541.41000    13.230     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56551.73000    13.470     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56561.44000    13.600     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56581.78000    14.030     0.050  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56609.68000    16.640     0.070  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56616.36000    16.720     0.080  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56626.09000    16.830     0.080  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56635.65000    16.930     0.090  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446

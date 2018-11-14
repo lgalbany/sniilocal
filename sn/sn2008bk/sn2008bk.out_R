@@ -1,0 +1,11 @@
+SN: sn2008bk
+Filter: R
+Npoints:           7
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+54723.02 15.11 0.05 Landolt   CalarAlto   CAFOSC   Van Dyk et al. 2010:astro-ph/1011.5873
+54739.93 15.32 0.05 Landolt   CalarAlto   CAFOSC   Van Dyk et al. 2010:astro-ph/1011.5873
+54754.91 15.56 0.05 Landolt   CalarAlto   CAFOSC   Van Dyk et al. 2010:astro-ph/1011.5873
+54805.84 16.06 0.05 Landolt   NOT   ALFOSC    Van Dyk et al. 2010:astro-ph/1011.5873
+55014.37 18.39 0.03 Landolt   SMARTS   ANDICAM   Van Dyk et al. 2010:astro-ph/1011.5873
+55028.36 18.52 0.07 Landolt   SMARTS   ANDICAM   Van Dyk et al. 2010:astro-ph/1011.5873
+55056.16 19.04 0.03 Landolt   NOT   ALFOSC    Van Dyk et al. 2010:astro-ph/1011.5873

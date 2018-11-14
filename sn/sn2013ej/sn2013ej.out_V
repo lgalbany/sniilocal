@@ -1,0 +1,113 @@
+SN: sn2013ej
+Filter: V
+Npoints:          109
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56500.33800    13.019     0.015  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56501.33800    12.914     0.019  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56502.33800    12.798     0.016  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56506.36200    12.593     0.014  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56507.40400    12.523     0.022  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56508.37400    12.535     0.018  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56509.35600    12.558     0.018  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56510.35200    12.545     0.023  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56513.37000    12.537     0.021  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56513.40000    12.594     0.018  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56514.17300    12.579     0.015  Landolt          LCOGT         1m0-10             Valenti et al. 2013: astro-ph/1309.4269
+    56515.17400    12.538     0.016  Landolt          LCOGT         1m0-13             Valenti et al. 2013: astro-ph/1309.4269
+    56516.29400    12.566     0.014  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56517.39800    12.550     0.015  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56518.29700    12.577     0.021  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56519.29000    12.643     0.032  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56520.28800    12.570     0.021  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56521.28500    12.642     0.017  Landolt          LCOGT         1m0-05             Valenti et al. 2013: astro-ph/1309.4269
+    56522.44100    12.630     0.023  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56524.34700    12.745     0.022  Landolt          LCOGT         1m0-05             Valenti et al. 2013: astro-ph/1309.4269
+    56525.30800    12.748     0.023  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56525.32100    12.739     0.017  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56526.32400    12.788     0.020  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56529.30300    12.920     0.016  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56533.43500    12.927     0.020  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56534.33100    12.957     0.022  Landolt          LCOGT         1m0-08             Valenti et al. 2013: astro-ph/1309.4269
+    56500.21000    12.999     0.025  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56503.30000    12.647     0.012  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56504.23000    12.615     0.019  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56506.31000    12.524     0.021  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56508.25000    12.522     0.014  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56509.23000    12.513     0.042  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56510.33000    12.553     0.032  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56514.19000    12.527     0.075  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56515.20000    12.548     0.013  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56519.20000    12.586     0.026  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56520.18000    12.601     0.028  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56521.20000    12.651     0.032  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56524.19000    12.748     0.039  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56525.19000    12.787     0.058  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56528.20000    12.864     0.038  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56529.16000    12.904     0.027  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56533.18000    13.026     0.045  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56538.12000    13.142     0.034  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56539.29000    13.164     0.026  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56541.25000    13.228     0.024  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56544.12000    13.291     0.037  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56546.18000    13.302     0.028  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56553.07000    13.438     0.031  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56554.13000    13.450     0.039  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56560.12000    13.538     0.055  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56562.12000    13.570     0.041  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56563.27000    13.618     0.025  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56567.12000    13.634     0.041  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56568.12000    13.650     0.046  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56573.09000    13.733     0.031  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56574.09000    13.771     0.040  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56577.10000    13.858     0.038  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56578.06000    13.868     0.043  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56589.08000    14.211     0.034  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56594.15000    14.299     0.043  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56596.12000    14.907     0.051  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56600.08000    15.776     0.079  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56607.29000    16.612     0.137  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56610.14000    16.309     0.133  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56613.14000    16.572     0.160  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56616.09000    16.478     0.123  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56617.21000    16.444     0.135  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56629.98000    16.889     0.247  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56643.02000    17.235     0.237  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56654.99000    17.089     0.217  Landolt            RIT     SBIG-ST-8E                     Richmond 2014: eprint-1405.7900
+    56508.82000    12.612     0.013  Landolt         HCT-2m             --                   Bose et al. 2015: arXiv1504.06207
+    56535.93000    13.125     0.011  Landolt         HCT-2m             --                   Bose et al. 2015: arXiv1504.06207
+    56564.77000    13.569     0.012  Landolt         HCT-2m             --                   Bose et al. 2015: arXiv1504.06207
+    56565.72000    13.595     0.008  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56567.87000    13.640     0.012  Landolt         HCT-2m             --                   Bose et al. 2015: arXiv1504.06207
+    56578.70000    13.864     0.010  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56580.85000    13.884     0.012  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56581.71000    13.939     0.010  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56586.73000    14.126     0.017  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56589.70000    14.233     0.021  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56590.72000    14.340     0.008  Landolt     DFOT-130cm             --                   Bose et al. 2015: arXiv1504.06207
+    56591.74000    14.431     0.007  Landolt     DFOT-130cm             --                   Bose et al. 2015: arXiv1504.06207
+    56592.76000    14.453     0.016  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56605.63000    16.108     0.012  Landolt         HCT-2m             --                   Bose et al. 2015: arXiv1504.06207
+    56607.72000    16.358     0.012  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56608.67000    16.379     0.014  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56610.65000    16.405     0.011  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56615.69000    16.493     0.015  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56619.69000    16.533     0.009  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56620.62000    16.552     0.012  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56632.72000    16.771     0.014  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56634.73000    16.815     0.017  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56635.69000    16.832     0.011  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56636.61000    16.863     0.019  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56640.74000    16.892     0.034  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56641.63000    16.974     0.019  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56642.70000    16.943     0.025  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56645.61000    17.009     0.015  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56650.62000    17.138     0.014  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56651.66000    17.101     0.010  Landolt       ST-104cm     DFOT-130cm                   Bose et al. 2015: arXiv1504.06207
+    56654.62000    17.161     0.009  Landolt     DFOT-130cm             --                   Bose et al. 2015: arXiv1504.06207
+    56655.59000    17.180     0.011  Landolt     DFOT-130cm             --                   Bose et al. 2015: arXiv1504.06207
+    56676.62000    17.458     0.011  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56682.62000    17.526     0.009  Landolt     DFOT-130cm             --                   Bose et al. 2015: arXiv1504.06207
+    56687.62000    17.602     0.014  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56688.58000    17.618     0.019  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56690.62000    17.623     0.031  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207
+    56705.59000    17.814     0.022  Landolt       ST-104cm          ARIES                   Bose et al. 2015: arXiv1504.06207

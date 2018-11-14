@@ -1,0 +1,12 @@
+Name: sn2000cb
+Type: SNIIP-pec
+zhel: 0.00643
+Redshift_error: 0.00002
+zcmb: 0.00680
+Ra:  240.383958
+Dec:  1.706389
+Host: IC 1158
+Host_type: SAB(r)c?
+E(B-V)_MW: 0.112
+Distance(m-M): 32.51
+Distance_error(m-M): 0.59

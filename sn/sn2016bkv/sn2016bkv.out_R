@@ -1,0 +1,24 @@
+SN: sn2016bkv
+Filter: R
+Npoints:           20
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    57471.70000    15.270     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57472.70000    15.040     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57474.70000    14.680     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57475.70000    14.750     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57480.70000    14.860     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57483.60000    15.170     0.040  Landolt             --         HOWPol                          Nakaoka18:arXiv:1804.06065
+    57486.60000    15.290     0.110  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57493.60000    15.410     0.050  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57496.70000    15.550     0.070  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57497.70000    15.530     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57509.70000    15.670     0.040  Landolt             --         HOWPol                          Nakaoka18:arXiv:1804.06065
+    57522.60000    15.490     0.180  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57525.60000    15.510     0.320  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57553.60000    15.430     0.190  Landolt             --         HOWPol                          Nakaoka18:arXiv:1804.06065
+    57562.50000    15.440     0.190  Landolt             --         HOWPol                          Nakaoka18:arXiv:1804.06065
+    57574.50000    15.310     0.190  Landolt             --         HOWPol                          Nakaoka18:arXiv:1804.06065
+    57586.50000    15.280     0.040  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57600.50000    15.390     0.070  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57609.50000    15.370     0.170  Landolt             --          HONIR                          Nakaoka18:arXiv:1804.06065
+    57670.80000    17.680     0.170  Landolt             --         HOWPol                          Nakaoka18:arXiv:1804.06065

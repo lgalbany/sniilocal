@@ -1,0 +1,13 @@
+Name: sn1994n
+Type: SNIIP
+Zhel: 0.009807
+Redshift_error: 0.000033
+Zcmb: 0.010950
+Distance(m-M): 33.34
+Distance_error(m-M): 0.0
+Distance_method: Pastorello04
+Ra:  157.44507
+Dec:  13.02048
+MaxEpoch: 49450.5
+E(B-V)_MW: 0.039
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

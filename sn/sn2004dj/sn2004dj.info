@@ -1,0 +1,15 @@
+Name: sn2004dj
+Type: SNIIP
+Zhel: 0.000437
+Redshift_error: 0.000010
+Zcmb: 0.000600
+Host_name: NGC2403
+Host_type: SAB(s)cd
+Distance(m-M): 27.55
+Distance_error(m-M): 0.07
+Distance_method: Cepheids,TRGB,Tully_Fisher(NED)
+Ra:  114.3210167
+Dec:  65.5994000
+Epoch: 2000?
+E(B-V)_MW: 0.040
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S?

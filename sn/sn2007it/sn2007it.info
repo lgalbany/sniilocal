@@ -1,0 +1,18 @@
+Name: sn2007it
+Type: SNIIP
+Zhel:     0.0039790000
+Redshift_error:    7.0000000e-06
+Zcmb:     0.0046960000
+Ra:        214.60679
+Dec:       -43.381611
+Epoch: 2000
+E(B-V)_MW:       0.10400000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 5530
+Host_type: SA(rs)bc
+Distance(m-M):        30.740000
+Distance_error(m-M):       0.56000000
+Distance_method: NED
+Offset(deg):     0.0083660133
+Major_diameter(arcmin):        4.2000000
+Minor_diameter(arcmin):        1.9000000

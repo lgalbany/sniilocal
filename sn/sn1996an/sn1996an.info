@@ -1,0 +1,13 @@
+Name: sn1996an
+Type: SNIIP
+Zhel: 0.004693
+Redshift_error: 0.000013
+Zcmb: 0.003988
+Distance(m-M): 30.95
+Distance_error(m-M): 0.24
+Distance_method: Sosies(NED)
+Ra:  41.50346
+Dec:  -7.57231
+MaxEpoch: 50221.5
+E(B-V)_MW: 0.027
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

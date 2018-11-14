@@ -1,0 +1,18 @@
+SN: sn1970g
+Filter: U
+Npoints: 14
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+40803.182 11.68 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40804.212 11.72 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40805.241 11.77 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40806.258 11.94 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40807.205 12.07 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40808.198 12.13 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40809.184 12.29 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40819.179 12.85 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40820.198 12.81 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40821.186 12.91 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40822.187 13.14 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40826.185 13.17 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40828.184 13.06 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40829.180 13.13 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36

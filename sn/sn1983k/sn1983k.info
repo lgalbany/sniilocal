@@ -1,0 +1,10 @@
+Name: sn1983k
+Type: SNII
+Zhel: 0.0043
+Redshift_error: 0.0001 
+Ra:        192.30096
+Dec:       -8.62819
+Epoch: 2000
+E(B-V)_MW:       0.0294
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 4699

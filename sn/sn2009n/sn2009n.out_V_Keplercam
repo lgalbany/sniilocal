@@ -1,0 +1,8 @@
+SN: sn2009n
+Filter: V_Keplercam
+Npoints:            4
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    54857.51825    16.294     0.020  Landolt             --           KEP1           Hicken et al. (2017): 2017arXiv170601030H
+    54858.55843    16.303     0.023  Landolt             --           KEP1           Hicken et al. (2017): 2017arXiv170601030H
+    54859.53412    16.330     0.016  Landolt             --           KEP1           Hicken et al. (2017): 2017arXiv170601030H
+    54860.53693    16.337     0.015  Landolt             --           KEP1           Hicken et al. (2017): 2017arXiv170601030H

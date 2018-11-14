@@ -1,0 +1,17 @@
+Name: sn2012ec
+Type: SNII
+Zhel: 0.004693
+Redshift_error: 0.000013
+Zcmb: 0.003988
+Ra:        41.499542
+Dec:       -7.5736110
+Epoch: 2000
+E(B-V)_MW:      0.023000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 1084
+Host_type: SA(s)c
+Major_Diameter(arcmin):  3.26
+Minor_Diameter(arcmin):  1.23
+Distance(m-M): 31.62
+Distance_error(m-M): 0.49
+Distance_method: NED

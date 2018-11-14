@@ -1,0 +1,18 @@
+Name: sn2005ci
+Type: SNII-87A
+Zhel:     0.0075810000
+Redshift_error:    1.2000000e-05
+Zcmb:     0.0079820000
+Ra:        218.68700
+Dec:        48.672167
+Epoch: 2000
+E(B-V)_MW:      0.028000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 5682
+Host_type: SB(s)b
+Distance(m-M):        32.670000
+Distance_error(m-M):       0.18000000
+Distance_method: NED
+Offset(deg):     0.0019366781
+Major_diameter(arcmin):        2.1300000
+Minor_diameter(arcmin):       0.47000000

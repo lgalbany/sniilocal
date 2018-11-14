@@ -1,0 +1,19 @@
+SN: sn2003hg
+Filter: R
+Npoints: 15
+MJD      Mag     DMag   magsys  Telescope  Detector   Source
+52879.3  16.930  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52888.2  16.925  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52890.2  16.973  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52901.2  17.093  0.017  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52902.2  17.123  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52905.1  17.109  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52906.2  17.176  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52908.1  17.113  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52915.2  17.191  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52928.1  17.223  0.022  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52929.1  17.210  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52952.0  17.263  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52953.1  17.258  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52969.0  17.252  0.031  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52988.0  17.942  0.015  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G

@@ -1,0 +1,34 @@
+SN: sn1970g
+Filter: B
+Npoints: 30
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+40799.876 11.75 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40800.890 11.85 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40801.948 11.90 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40803.182 11.94 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40803.869 12.10 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40804.212 11.95 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40805.241 12.00 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40806.258 12.08 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40807.205 12.14 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40808.198 12.21 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40809.184 12.22 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40809.909 12.35 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40819.179 12.86 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40820.198 12.89 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40821.186 12.83 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40822.187 12.95 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40822.853 12.75 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40825.826 13.20 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40826.185 12.96 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40828.184 12.96 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40829.180 13.05 0.05 Landolt   Palomar20    1P21    Winzer J.E.,1974,JRASC,68,36
+40833.855 13.20 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40858.798 14.30 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40860.807 14.65 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40862.878 14.80 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40877.758 15.65 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40886.754 16.25 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+40979.032 16.50 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+41060.004 17.01 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57
+41146.871 17.62 0.3 Landolt   Asiago   Plate   Barbon,Ciatti & Rosino, 1973,A&A,29,57

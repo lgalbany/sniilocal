@@ -1,0 +1,15 @@
+Name: sn2008aw
+Type: SNIIP
+Zhel:      0.010374000
+Redshift_error:    1.3000000e-05
+Zcmb:      0.011467000
+Ra:        196.05883
+Dec:       -10.320083
+Epoch: 2000
+E(B-V)_MW:      0.037000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 4939
+Host_type: SA(s)bc
+Offset(deg):      0.019559338
+Major_diameter(arcmin):        5.5000000
+Minor_diameter(arcmin):        2.8000000

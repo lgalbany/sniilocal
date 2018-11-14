@@ -1,0 +1,25 @@
+SN: sn2007aa
+Filter: V_Keplercam
+Npoints:           21
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    54152.35348    15.703     0.012  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54153.32638    15.719     0.013  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54158.34654    15.731     0.013  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54158.36245    15.740     0.012  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54159.46133    15.715     0.014  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54160.32882    15.738     0.013  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54161.34922    15.754     0.015  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54161.47185    15.752     0.014  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54168.40413    15.704     0.016  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54169.35649    15.709     0.015  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54170.25104    15.686     0.012  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54185.29287    15.665     0.013  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54188.21030    15.657     0.016  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54232.27663    17.453     0.019  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54233.26502    17.569     0.021  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54234.16390    17.705     0.030  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54239.23108    17.897     0.017  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54241.16786    17.895     0.025  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54244.19858    18.033     0.038  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54252.23417    18.104     0.071  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54254.20698    18.028     0.038  Landolt             --            KEP           Hicken et al. (2017): 2017arXiv170601030H

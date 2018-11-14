@@ -1,0 +1,20 @@
+SN: sn2015bs
+Filter: B
+Npoints:           16
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+56938.11796   18.249 0.034      Landolt  -- --    Joe
+56939.12374   18.332 0.032      Landolt  -- --    Joe
+56940.09368   18.288 0.019      Landolt  -- --    Joe
+56941.07836   18.367 0.015      Landolt  -- --    Joe
+56942.08536   18.380 0.010      Landolt  -- --    Joe
+56944.06755   18.459 0.014      Landolt  -- --    Joe
+56947.10586   18.559 0.011      Landolt  -- --    Joe
+56948.00671   18.575 0.012      Landolt  -- --    Joe
+56949.07671   18.602 0.012      Landolt  -- --    Joe
+56956.08118   18.796 0.016      Landolt  -- --    Joe
+56979.08029   19.141 0.018      Landolt  -- --    Joe
+56987.05483   19.209 0.019      Landolt  -- --    Joe
+56998.07648   19.342 0.068      Landolt  -- --    Joe
+56998.07911   19.575 0.083      Landolt  -- --    Joe
+57005.03145   19.687 0.047      Landolt  -- --    Joe
+57013.04940   20.173 0.052      Landolt  -- --    Joe

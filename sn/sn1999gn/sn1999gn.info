@@ -1,0 +1,10 @@
+Name: sn1999gn
+Type: SNII
+Zhel: 0.005224
+Redshift_error: 0.000001 
+Ra:        185.48767
+Dec:       4.46269
+Epoch: 2000
+E(B-V)_MW:       0.0192
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 4303

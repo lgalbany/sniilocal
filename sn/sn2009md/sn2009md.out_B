@@ -1,0 +1,35 @@
+SN: sn2009md
+Filter: B
+Npoints:     31      
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+55179.46 17.40 0.07 Landolt   FTN   EM01   Fraser et al. 2010: astroph/1011.6558
+55181.11 17.45 0.12 Landolt   WISE  PI   Fraser et al. 2010: astroph/1011.6558
+55181.52 17.54 0.08 Landolt   FTN   EM01   Fraser et al. 2010: astroph/1011.6558
+55183.46 17.60 0.20 Landolt   FTN   EM01   Fraser et al. 2010: astroph/1011.6558
+55189.33 17.73 0.06 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55189.46 17.87 0.22 Landolt   FTN   EM01   Fraser et al. 2010: astroph/1011.6558
+55191.50 17.92 0.09 Landolt   FTN   EM01   Fraser et al. 2010: astroph/1011.6558
+55192.10 17.94 0.08 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55193.59 17.98 0.07 Landolt   FTN   EM01   Fraser et al. 2010: astroph/1011.6558
+55197.05 18.05 0.25 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55204.13 18.19 0.39 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55208.27 18.21 0.18 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55211.14 18.31 0.04 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55213.16 18.34 0.12 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55219.24 18.42 0.03 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55224.01 18.50 0.27 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55233.15 18.68 0.14 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558
+55236.98 18.64 0.15 Landolt   WISE   PI   Fraser et al. 2010: astroph/1011.6558
+55245.31 18.81 0.15 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55245.97 18.86 0.28 Landolt   WISE   PI   Fraser et al. 2010: astroph/1011.6558
+55262.23 18.94 0.04 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55273.98 19.58 0.68 Landolt   WISE   PI   Fraser et al. 2010: astroph/1011.6558
+55276.09 19.97 0.15 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558
+55276.94 20.13 0.19 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55279.01 20.58 0.23 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55280.04 20.98 0.39 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55281.88 21.45 0.32 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55287.91 22.54 0.56 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558
+55296.02 22.31 0.28 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558
+55313.98 22.64 0.21 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558
+55348.93 22.82 0.35 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558

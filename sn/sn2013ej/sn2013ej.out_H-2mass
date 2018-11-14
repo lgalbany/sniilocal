@@ -1,0 +1,11 @@
+SN: sn2013ej
+Filter: H-2mass
+Npoints:            7
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56521.27000    11.970     0.270  Landolt            NTT           SOFI                 Huang et al. 2015: arXiv:1504.00446
+    56533.20000    11.890     0.390  Landolt            NTT           SOFI                 Huang et al. 2015: arXiv:1504.00446
+    56569.23000    12.330     0.310  Landolt            NTT           SOFI                 Huang et al. 2015: arXiv:1504.00446
+    56599.06000    13.750     0.410  Landolt            NTT           SOFI                 Huang et al. 2015: arXiv:1504.00446
+    56609.24000    14.240     0.310  Landolt            NTT           SOFI                 Huang et al. 2015: arXiv:1504.00446
+    56636.03000    14.710     0.390  Landolt            NTT           SOFI                 Huang et al. 2015: arXiv:1504.00446
+    56682.02000    15.800     0.400  Landolt            NTT           SOFI                 Huang et al. 2015: arXiv:1504.00446

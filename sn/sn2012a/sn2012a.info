@@ -1,0 +1,16 @@
+Name: sn2012a
+Type: SNIIP
+Zhel: 0.002512
+Redshift_error:  0.000010 
+Zcmb: 0.003617 
+Ra:        156.28079
+Dec:        17.154056
+Epoch: 2000
+E(B-V)_MW:      0.028000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 3239
+Host_type: IB(s)m pec
+Distance(m-M): 29.53
+Distance_method: NED
+Major_Diameter(arcmin):   5.0
+Minor_Diameter(arcmin):   3.3

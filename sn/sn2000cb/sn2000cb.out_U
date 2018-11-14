@@ -1,0 +1,6 @@
+SN: sn2000cb
+Filter: U
+Npoints: 2
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+51663.30 19.356 0.036 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 
+51684.24 18.542 0.043 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G 

@@ -1,0 +1,9 @@
+SN: sn2005lw
+Filter: K_wirc
+Npoints:            5
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    53788.30078  16.778   0.042  Landolt  Swope-1m SITe3-CCD              Anderson Joe (private communication)
+    53788.30078  16.779   0.041  Landolt  Swope-1m SITe3-CCD              Anderson Joe (private communication)
+    53834.17188  17.379   0.056  Landolt  Swope-1m SITe3-CCD              Anderson Joe (private communication)
+    53844.12109  17.966   0.080  Landolt  Swope-1m SITe3-CCD              Anderson Joe (private communication)
+    53844.12891  18.053   0.074  Landolt  Swope-1m SITe3-CCD              Anderson Joe (private communication)

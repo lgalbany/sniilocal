@@ -1,0 +1,12 @@
+Name: sn2013cf
+Type: II
+Zhel: None
+Redshift_error: None
+Zcmb: None
+Ra:        173.65204
+Dec:        54.890111
+Epoch: 2000
+E(B-V)_MW:      0.014000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: PSN J11343649+5453244
+Host_type: None

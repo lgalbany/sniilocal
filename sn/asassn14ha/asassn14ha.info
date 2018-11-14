@@ -1,0 +1,17 @@
+Name: asassn14ha
+Type: SNII
+Zhel:     0.005017
+Redshift_error:    0.000007
+Zcmb:     0.004981
+Ra:        65.005875
+Dec:        -54.938056
+Epoch: 2000
+E(B-V)_MW:      0.010000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 1566
+Host_type: SAB(s)bc
+Distance(m-M):        29.770000
+Distance_error(m-M):       0.91000000
+Distance_method: NED
+Major_Diameter(arcmin):   8.3
+Minor_Diameter(arcmin):   6.6

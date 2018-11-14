@@ -1,0 +1,33 @@
+SN: sn1999gi
+Filter: B
+Npoints:           29
+Mag    DMag  magsys  Telescope  Detector   Source
+51522.44 14.950 0.019 Landolt    FLWO   --   Leonard et al. :AJ,124,2490,2002
+51524.56 14.873 0.045 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51527.48 14.868 0.031 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51528.49 14.866 0.029 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51529.47 14.876 0.033 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51530.51 14.919 0.051 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51533.45 14.978 0.041 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51539.48 15.177 0.022 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51544.50 15.454 0.022 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51549.46 15.683 0.025 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51555.43 15.856 0.021 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51576.49 16.300 0.031 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51581.33 16.342 0.033 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51589.43 16.447 0.057 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51589.43 16.442 0.023 Landolt    FLWO   --   Leonard et al. :AJ,124,2490,2002
+51613.35 16.603 0.048 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51618.23 16.754 0.040 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51623.31 16.715 0.023 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51628.27 16.917 0.046 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51633.25 17.162 0.026 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51637.36 17.399 0.030 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51642.25 17.818 0.051 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51647.18 18.138 0.024 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51652.22 19.180 0.047 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51663.19 19.274 0.050 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51668.18 19.355 0.059 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51670.26 19.458 0.032 Landolt    FLWO   --   Leonard et al. :AJ,124,2490,2002
+51676.18 19.430 0.080 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
+51696.16 19.670 0.039 Landolt    FLWO   --   Leonard et al. :AJ,124,2490,2002

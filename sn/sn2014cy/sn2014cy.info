@@ -1,0 +1,18 @@
+Name: sn2014cy
+Type: SNII
+Zhel:     0.0055470000
+Redshift_error:    3.0000000e-06
+Zcmb:     0.0043240000
+Ra:        356.06679
+Dec:        10.770139
+Epoch: 2000
+E(B-V)_MW:      0.049000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 7742
+Host_type: SA(r)b
+Distance(m-M):        32.910000
+Distance_error(m-M):        1.6800000
+Distance_method: NED
+Offset(deg):     0.0032934918
+Major_diameter(arcmin):        1.7000000
+Minor_diameter(arcmin):        1.7000000

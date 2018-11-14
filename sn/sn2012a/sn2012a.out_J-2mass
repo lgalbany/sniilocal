@@ -1,0 +1,20 @@
+SN: sn2012a
+Filter: J-2mass
+Npoints:           16
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55937.23000    14.150     0.160  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    55938.29000    14.140     0.150  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    55939.35000    13.610     0.160  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    55950.26000    13.430     0.320  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    55968.12000    13.380     0.110  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    55973.29000    13.370     0.460  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    55982.08000    13.280     0.290  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    55991.09000    13.670     0.170  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    56000.08000    13.560     0.120  Landolt           SOFI             --                Tomasella et al. 2013arXiv:1305.5789
+    56001.18000    13.680     0.250  Landolt           SOFI             --                Tomasella et al. 2013arXiv:1305.5789
+    56011.01000    13.830     0.180  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    56022.11000    13.780     0.040  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    56029.11000    14.180     0.190  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    56033.10000    14.340     0.230  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    56038.10000    14.660     0.070  Landolt          REMIR             --                Tomasella et al. 2013arXiv:1305.5789
+    56054.00000    15.350     0.290  Landolt         NOTCAM             --                Tomasella et al. 2013arXiv:1305.5789

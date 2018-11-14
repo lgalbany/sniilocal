@@ -1,0 +1,16 @@
+SN: sn2005au
+Filter: B
+Npoints:           12
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+53467.3696   17.48833   0.08797095 Landolt -- -- CCCP
+53474.3415   17.67833   0.08444262 Landolt -- -- CCCP
+53481.264   18.14833   0.120439    Landolt -- -- CCCP
+53503.2926   18.66833   0.08503267 Landolt -- -- CCCP
+53508.3044   18.76833   0.169632   Landolt -- -- CCCP
+53519.2836   19.55833   0.1888709  Landolt -- -- CCCP
+53527.3239   19.70833   0.2190066  Landolt -- -- CCCP
+53532.3009   20.52833   0.2050948  Landolt -- -- CCCP
+53536.207   20.88833   0.5015829   Landolt -- -- CCCP
+53550.2459   20.71833   0.4543188  Landolt -- -- CCCP
+53558.3145   20.74833   0.829461   Landolt -- -- CCCP
+53581.2358   21.03833   0.9540192  Landolt -- -- CCCP

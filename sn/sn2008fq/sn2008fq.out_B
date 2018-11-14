@@ -1,0 +1,23 @@
+SN: sn2008fq
+Filter: B
+Npoints:           19
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+ 54726.190    16.544     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54730.180    16.623     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54732.210    16.618     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54734.160    16.698     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54736.160    16.702     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54738.160    16.818     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54740.170    16.912     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54745.170    17.188     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54750.150    17.288     0.901   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54752.160    17.625     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54754.140    17.705     0.901   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54756.120    17.779     0.900   Landolt       KAIT3    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54758.130    17.822     0.900   Landolt       KAIT3    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54760.110    17.874     0.900   Landolt       KAIT3    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54763.120    17.994     0.900   Landolt       KAIT3    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54766.100    18.047     0.901   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54781.090    18.544     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54785.090    18.499     0.900   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 54789.090    18.885     0.904   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F

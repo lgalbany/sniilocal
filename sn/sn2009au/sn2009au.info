@@ -1,0 +1,18 @@
+Name: sn2009au
+Type: SNIIP
+Zhel:     0.0094040000
+Redshift_error:    2.8000000e-05
+Zcmb:      0.010431000
+Ra:        194.94167
+Dec:       -29.602083
+Epoch: 2000
+E(B-V)_MW:      0.081000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: ESO 443-G021
+Host_type: Scd: edge-on
+Distance(m-M):        33.370000
+Distance_error(m-M):       0.25000000
+Distance_method: NED
+Offset(deg):     0.0018959910
+Major_diameter(arcmin):        1.9000000
+Minor_diameter(arcmin):       0.30000000

@@ -1,0 +1,32 @@
+SN: asassn14ha
+Filter: B_swift
+Npoints:           28
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56911.85400    14.665     0.048  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56912.40700    14.763     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56912.40700    14.763     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56912.45800    14.721     0.048  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56912.45800    14.721     0.048  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56913.33800    14.788     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56913.40500    14.882     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56913.45700    14.896     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56913.80400    14.878     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56913.85600    14.831     0.055  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56913.87100    14.879     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56914.79500    14.898     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56914.86200    14.850     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56915.06200    14.929     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56915.39700    14.872     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56917.59300    14.957     0.049  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56919.92300    15.038     0.050  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56921.92000    15.013     0.050  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56930.52100    15.203     0.051  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56930.58800    15.269     0.052  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56932.04300    15.200     0.051  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56934.85100    15.291     0.052  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56936.97400    15.369     0.053  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56938.57900    15.430     0.053  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56940.64200    15.429     0.053  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56945.36400    15.557     0.052  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56950.77300    15.615     0.053  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V
+    56955.55500    15.865     0.056  Landolt          Swift             --            Valenti et al. 2016: 2016arXiv160308953V

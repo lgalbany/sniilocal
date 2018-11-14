@@ -1,0 +1,24 @@
+SN: sn2010f
+Filter: uvw1_swift
+Npoints:           20
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+  55212.03   15.138000    0.104829  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55213.06   15.170100    0.093089  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55214.45   15.407200    0.085239  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55215.25   15.549900    0.082537  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55222.95   17.126301    0.084742  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55227.43   17.946400    0.105033  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55229.16   18.133600    0.114292  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55235.09   18.465900    0.127087  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55237.10   18.649900    0.128825  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55238.94   18.808701    0.142617  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55240.88   18.639500    0.138406  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55243.01   18.948099    0.143032  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55244.94   18.998501    0.171908  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55248.41   19.201000    0.217884  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55251.25   19.157900    0.167802  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55253.86   18.789801    0.141518  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55256.81   18.995600    0.162772  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55260.21   19.173000    0.177352  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55262.86   19.228001    0.205669  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55265.77   18.726200    0.162893  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190

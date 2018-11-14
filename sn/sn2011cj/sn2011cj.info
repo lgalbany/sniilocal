@@ -1,0 +1,14 @@
+Name: sn2011cj
+Type: SNIIP
+Zhel: 0.007419 
+Redshift_error: 0.000019 
+Zcmb: 0.008159
+Ra:        218.22421
+Dec:        11.597028
+Epoch: 2000
+E(B-V)_MW:      0.024000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: UGC 09356
+Host_type: S?
+Major_Diameter(arcmin):  1.38
+Minor_Diameter(arcmin):  0.61

@@ -1,0 +1,6 @@
+SN: sn2009ib
+Filter: U
+Npoints:            2
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55124.40000    19.425     0.349  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404
+    55157.20000    19.741     0.455  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404

@@ -1,0 +1,54 @@
+SN: sn2009ib
+Filter: I
+Npoints:           50
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55054.40000    15.499     0.014  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55057.30000    15.491     0.181  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404
+    55063.30000    15.409     0.059  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55064.40000    15.439     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55066.30000    15.381     0.061  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55066.40000    15.420     0.013  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55067.40000    15.410     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55068.40000    15.418     0.015  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55069.30000    15.373     0.056  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55070.40000    15.415     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55072.30000    15.430     0.015  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55072.40000    15.377     0.024  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55074.30000    15.426     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55075.40000    15.371     0.015  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55077.30000    15.401     0.022  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55079.40000    15.403     0.038  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55082.30000    15.377     0.039  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55083.30000    15.396     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55085.30000    15.391     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55085.40000    15.324     0.015  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55086.30000    15.373     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55088.40000    15.356     0.031  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55088.40000    15.362     0.022  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55090.30000    15.372     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55092.30000    15.364     0.102  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55094.30000    15.388     0.014  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55096.30000    15.398     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55096.30000    15.385     0.033  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55098.30000    15.396     0.012  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55100.30000    15.384     0.015  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55104.30000    15.332     0.020  Landolt      CTIO-1.3m        ANDICAM                Takats et al. 2015: arXiv:1504.02404
+    55113.30000    15.347     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55116.30000    15.362     0.012  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55121.30000    15.344     0.012  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55124.40000    15.323     0.106  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404
+    55131.30000    15.328     0.016  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55138.20000    15.344     0.012  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55143.30000    15.359     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55148.20000    15.384     0.015  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55151.10000    15.399     0.012  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55157.20000    15.457     0.179  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404
+    55158.10000    15.448     0.018  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55159.20000    15.458     0.012  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55172.10000    15.632     0.014  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55175.20000    15.721     0.013  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55181.10000    15.999     0.015  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55187.30000    16.402     0.015  Landolt         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55190.20000    16.559     0.159  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404
+    55221.20000    16.636     0.199  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404
+    55304.00000    18.207     0.231  Landolt       NTT-3.6m         EFOSC2                Takats et al. 2015: arXiv:1504.02404

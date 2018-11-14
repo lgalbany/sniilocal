@@ -1,0 +1,12 @@
+Name: sn2003gd
+Type: SNIIP
+zhel: 0.00219
+Redshift_error: 0.00001
+zcmb: 0.00119
+Ra:  24.1777083
+Dec:  15.7388611
+Host: 	NGC 0628
+Host_type: SA(s)c
+E(B-V)_MW: 0.069
+Distance(m-M): 29.93
+Distance_error(m-M): 0.40

@@ -1,0 +1,6 @@
+SN: sn2006be
+Filter: K_wirc
+Npoints:            2
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    53843.28125  14.775   0.058  Landolt  Swope-1m SITe3-CCD              Anderson Joe (private communication)
+    53845.28125  14.434   0.090  Landolt  Swope-1m SITe3-CCD              Anderson Joe (private communication)

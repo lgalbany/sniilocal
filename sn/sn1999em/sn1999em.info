@@ -1,0 +1,14 @@
+Name: sn1999em
+Type: SNIIP
+Zhel: 0.002392
+Redshift_error: 0.000004
+Zcmb: 0.002236
+Distance(m-M): 29.93
+Distance_error(Mpc): 0.10
+Distance_method: Cepheids(NED)/EPM(Hamuy01)/EPM(Leonard02)
+Host: NGC 0416
+Ra:  70.3631542
+Dec:  -2.8627306
+MaxEpoch: 51473.5
+E(B-V)_MW: 0.040
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

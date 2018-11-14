@@ -1,0 +1,12 @@
+Name: sn2007q
+Type: II
+Zhel: 0.029
+Redshift_error: nan
+Ra: 228.283625
+Dec: 41.2611388889
+Epoch: 2000
+E(B-V)_MW: 0.0173
+E(B-V)_MW_error: 0.002
+E(B-V)_MW_Ref: Schlafly & Finkbeiner (2011): 2011ApJ...737..103S
+Host: NGC 5888
+Offset(deg): 0.00490555948

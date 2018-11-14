@@ -1,0 +1,14 @@
+Name: sn2015bs
+Secname: csp14acu
+Type: SNII
+Zhel: 0.027
+Redshift_error: 0.001 
+Zcmb: 
+Ra:  338.43241667            
+Dec:  -6.36891667     
+Epoch: 2000
+E(B-V)_MW:      
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: 
+Major_Diameter(arcmin):  
+Minor_Diameter(arcmin):  

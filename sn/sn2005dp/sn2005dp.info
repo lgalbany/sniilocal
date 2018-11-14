@@ -1,0 +1,18 @@
+Name: sn2005dp
+Type: II
+Zhel:     0.0088560000
+Redshift_error:    1.7000000e-05
+Zcmb:     0.0093640000
+Ra:        216.90258
+Dec:        41.254167
+Epoch: 2000
+E(B-V)_MW:      0.010000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 5630
+Host_type: Sdm:
+Distance(m-M):        32.510000
+Distance_error(m-M):       0.35000000
+Distance_method: NED
+Offset(deg):     0.0035831326
+Major_diameter(arcmin):        2.0500000
+Minor_diameter(arcmin):       0.65000000

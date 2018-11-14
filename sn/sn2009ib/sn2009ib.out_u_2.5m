@@ -1,0 +1,12 @@
+SN: sn2009ib
+Filter: u_2.5m
+Npoints:            8
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55054.40000    16.148     0.035       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55064.40000    17.651     0.069       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55066.40000    17.791     0.084       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55067.40000    18.022     0.074       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55069.40000    18.204     0.087       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55071.30000    18.306     0.080       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55073.40000    18.517     0.068       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55075.30000    18.600     0.088       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404

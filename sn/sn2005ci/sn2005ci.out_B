@@ -1,0 +1,31 @@
+SN: sn2005ci
+Filter: B
+Npoints:           27
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    53534.68000    19.340     0.299  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53535.71000    19.480     0.280  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53543.76000    19.540     0.482  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53545.78000    19.610     0.182  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53547.73000    19.380     0.277  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53549.68000    19.000     0.233  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53553.91000    18.870     0.244  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53556.80000    19.000     0.227  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53558.72000    19.010     0.192  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53559.76000    19.070     0.181  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53561.68000    19.160     0.222  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53562.80000    19.000     0.190  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53569.69000    18.990     0.245  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53580.79000    18.990     0.212  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53586.74000    18.970     0.251  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53589.79000    18.770     0.192  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53599.71000    18.840     0.129  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53601.68000    18.990     0.493  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53611.43000    18.760     0.139  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53612.73000    18.930     0.215  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53614.67000    18.720     0.152  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53615.71000    18.840     0.252  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53618.66000    18.900     0.197  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53627.70000    18.920     0.476  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53631.63000    19.260     0.356  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53642.61000    19.240     0.655  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368
+    53652.61000    19.740     0.430  Landolt           CCCP             --                Taddia et al. 2016: arXiv:1601.07368

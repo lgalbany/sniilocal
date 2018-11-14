@@ -1,0 +1,18 @@
+Name: sn2009ib
+Type: SNII
+Zhel:     0.0043500000
+Redshift_error:    1.3000000e-05
+Zcmb:     0.0043520000
+Ra:        64.416333
+Dec:       -62.777417
+Epoch: 2000
+E(B-V)_MW:      0.026000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 1559
+Host_type: SB(s)cd
+Distance(m-M):        30.930000
+Distance_error(m-M):       0.31000000
+Distance_method: NED
+Offset(deg):      0.010080339
+Major_diameter(arcmin):        3.5000000
+Minor_diameter(arcmin):        2.0000000

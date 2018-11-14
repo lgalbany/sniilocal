@@ -1,0 +1,18 @@
+Name: sn2010f
+Type: SNIIP
+Zhel:     0.0093100000
+Redshift_error:    7.0000000e-06
+Zcmb:      0.010368000
+Ra:        151.33771
+Dec:       -34.222500
+Epoch: 2000
+E(B-V)_MW:      0.096000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 3120
+Host_type: SAB(s)bc:
+Distance(m-M):        32.580000
+Distance_error(m-M):       0.45000000
+Distance_method: NED
+Offset(deg):     0.0073173564
+Major_diameter(arcmin):        1.8000000
+Minor_diameter(arcmin):        1.3000000

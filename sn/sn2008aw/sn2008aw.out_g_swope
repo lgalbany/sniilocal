@@ -1,0 +1,28 @@
+SN: sn2008aw
+Filter: g_swope
+Npoints:          24
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+54541.25  16.124   0.008   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54542.25  16.171   0.006   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54543.25  16.220   0.008   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54545.25  16.310   0.008   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54552.25  16.645   0.008   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54558.25  16.892   0.009   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54560.25  16.964   0.006   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54562.25  17.040   0.009   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54568.25  17.236   0.010   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54570.25  17.287   0.007   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54571.25  17.303   0.008   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54572.25  17.359   0.009   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54573.25  17.355   0.009   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54574.25  17.393   0.011   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54576.25  17.455   0.016   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54580.25  17.556   0.009   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54587.25  17.769   0.006   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54591.25  17.929   0.008   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54595.25  18.119   0.010   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54624.25  19.867   0.017   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54628.25  19.908   0.036   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54646.00  20.248   0.027   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54653.00  20.404   0.028   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)
+54654.00  20.435   0.041   AB  Swope-1m  SITe3-CCD  CSP-II (Contreras-Anderson)

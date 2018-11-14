@@ -1,0 +1,15 @@
+SN: sn2009md
+Filter: U
+Npoints:          11 
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+55189.33 18.42 0.18 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55192.10 18.73 0.07 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55204.13 19.46 0.36 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55208.27 19.35 0.21 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55211.14 19.42 0.11 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55213.16 19.81 0.31 Landolt   LT   RATCam   Fraser et al. 2010: astroph/1011.6558
+55219.24 19.89 0.26 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55233.15 20.10 0.51 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558
+55245.31 20.49 0.12 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55262.23 20.80 0.25 Landolt   NTT   EFOSC2   Fraser et al. 2010: astroph/1011.6558
+55276.09 21.74 0.54 Landolt   NOT   ALFOSC   Fraser et al. 2010: astroph/1011.6558

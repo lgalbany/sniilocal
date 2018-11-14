@@ -1,0 +1,49 @@
+SN: sn2016esw
+Filter: I
+Npoints:          45
+MJD         Mag     DMag    magsys  Telescope  Detector   Source	
+57608.3945  18.49   0.16    --      kait       --         De Jaeger
+57609.2461  18.13   0.11    --      kait       --         De Jaeger
+57610.1797  17.92   0.12    --      kait       --         De Jaeger
+57611.1797  17.87   0.12    --      kait       --         De Jaeger
+57612.2500  17.67   0.09    --      kait       --         De Jaeger
+57613.2930  17.57   0.10    --      kait       --         De Jaeger
+57614.2422  17.45   0.10    --      kait       --         De Jaeger
+57615.2422  17.36   0.12    --      kait       --         De Jaeger
+57616.2734  17.47   0.08    --      kait       --         De Jaeger
+57616.3047  17.33   0.02    --      nickel     --         De Jaeger
+57617.2461  17.43   0.08    --      kait       --         De Jaeger
+57618.2773  17.40   0.10    --      kait       --         De Jaeger
+57619.3242  17.55   0.17    --      kait       --         De Jaeger
+57620.2891  17.50   0.11    --      kait       --         De Jaeger
+57621.2734  17.46   0.08    --      kait       --         De Jaeger
+57622.3008  17.55   0.09    --      kait       --         De Jaeger
+57623.2734  17.57   0.08    --      kait       --         De Jaeger
+57624.2656  17.43   0.08    --      kait       --         De Jaeger
+57625.2578  17.44   0.07    --      kait       --         De Jaeger
+57626.2344  17.49   0.08    --      kait       --         De Jaeger
+57627.2305  17.59   0.08    --      kait       --         De Jaeger
+57628.2305  17.49   0.08    --      kait       --         De Jaeger
+57629.2227  17.52   0.07    --      kait       --         De Jaeger
+57630.2227  17.62   0.09    --      kait       --         De Jaeger
+57632.2109  17.63   0.07    --      kait       --         De Jaeger
+57633.2188  17.54   0.02    --      nickel     --         De Jaeger
+57633.2266  17.58   0.06    --      kait       --         De Jaeger
+57635.2070  17.55   0.06    --      kait       --         De Jaeger
+57636.2148  17.57   0.06    --      kait       --         De Jaeger
+57637.2109  17.59   0.03    --      nickel     --         De Jaeger
+57638.1953  17.59   0.07    --      kait       --         De Jaeger
+57639.2031  17.64   0.07    --      kait       --         De Jaeger
+57640.2031  17.69   0.06    --      kait       --         De Jaeger
+57641.1875  17.67   0.08    --      kait       --         De Jaeger
+57642.2031  17.65   0.08    --      kait       --         De Jaeger
+57643.2031  17.58   0.07    --      kait       --         De Jaeger
+57647.2305  17.68   0.02    --      nickel     --         De Jaeger
+57650.2227  17.72   0.03    --      nickel     --         De Jaeger
+57658.1797  17.80   0.05    --      nickel     --         De Jaeger
+57668.1836  17.87   0.03    --      nickel     --         De Jaeger
+57683.1445  17.93   0.02    --      nickel     --         De Jaeger
+57687.1367  18.03   0.04    --      nickel     --         De Jaeger
+57697.1445  18.07   0.03    --      nickel     --         De Jaeger
+57710.1133  18.26   0.04    --      nickel     --         De Jaeger
+57724.0977  18.48   0.08    --      nickel     --         De Jaeger

@@ -1,0 +1,8 @@
+SN: sn1983k
+Filter: V
+Npoints:          4
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+45500.00	13.15   0.10  -- -- -- OSC
+45531.00	13.04   0.10  -- -- -- OSC
+45557.00	13.27   0.10  -- -- -- OSC
+45563.00	13.31   0.10  -- -- -- OSC

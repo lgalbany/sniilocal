@@ -1,0 +1,50 @@
+SN: sn2005ay
+Filter: B
+Npoints:           45
+Mag    DMag  magsys  Telescope  Detector   Source
+53457.95 15.32 0.09 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53462.86 15.46 0.08 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53464.92 15.47 0.06 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53467.90 15.60 0.10 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53472.90 15.76 0.06 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53493.88 16.50 0.09 Landolt   M70  Ap-7   Tsetkov et al. :astro-ph/0605184
+53494.82 16.37 0.07 Landolt   C60  VA-1300B   Tsetkov et al. :astro-ph/0605184
+53499.86 16.60 0.06 Landolt   C60  VA-1300B   Tsetkov et al. :astro-ph/0605184
+53505.91 16.53 0.08 Landolt   M70  Ap-7   Tsetkov et al. :astro-ph/0605184
+53508.88 16.67 0.09 Landolt   M70  Ap-7   Tsetkov et al. :astro-ph/0605184
+53514.87 16.67 0.08 Landolt   M70  Ap-7   Tsetkov et al. :astro-ph/0605184
+53559.84 17.65 0.11 Landolt   C60  Ap-47   Tsetkov et al. :astro-ph/0605184
+53561.81 18.10 0.14 Landolt   C60  Ap-47   Tsetkov et al. :astro-ph/0605184
+53565.81 18.66 0.05 Landolt   S100  EEV-42-40   Tsetkov et al. :astro-ph/0605184
+53568.79 18.61 0.14 Landolt   C60  Ap-47   Tsetkov et al. :astro-ph/0605184
+53683.08 19.90 0.10 Landolt   C60  Ap-47   Tsetkov et al. :astro-ph/0605184
+53687.07 19.83 0.15 Landolt   C60  Ap-47   Tsetkov et al. :astro-ph/0605184 
+53461.250    15.376     0.050   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53465.250    15.460     0.016   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53472.250    15.742     0.026   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53474.250    15.848     0.018   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53476.250    15.928     0.021   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53478.250    15.991     0.020   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53480.250    16.101     0.033   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53482.250    16.157     0.035   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53486.250    16.261     0.033   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53490.250    16.290     0.031   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53492.250    16.299     0.031   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53501.250    16.467     0.024   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53514.250    16.651     0.036   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53517.250    16.676     0.027   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53520.250    16.715     0.027   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53524.250    16.727     0.039   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53527.250    16.804     0.049   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53533.250    16.863     0.036   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53537.250    16.961     0.046   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53541.250    17.022     0.036   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53546.250    17.133     0.030   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53551.250    17.291     0.051   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53556.250    17.519     0.050   Landolt       KAIT3    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53561.250    18.062     0.068   Landolt       KAIT3    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53470.250    15.646     0.028   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53471.250    15.663     0.024   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53472.500    15.755     0.041   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53524.250    16.715     0.035   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 53855.250    20.243     0.146   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F

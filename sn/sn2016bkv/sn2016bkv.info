@@ -1,0 +1,18 @@
+Name: sn2016bkv
+Type: SNII-LL
+Zhel:     0.0019750000
+Redshift_error:    3.0000000e-06
+Zcmb:     0.0027710000
+Ra:        154.58042
+Dec:        41.427583
+Epoch: 2000
+E(B-V)_MW:      0.015000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 3184
+Host_type: SAB(rs)cd
+Distance(m-M):        30.430000
+Distance_error(m-M):       0.42000000
+Distance_method: NED
+Offset(deg):     0.0083957900
+Major_diameter(arcmin):        7.4000000
+Minor_diameter(arcmin):        6.9000000

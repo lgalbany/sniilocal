@@ -1,0 +1,110 @@
+SN: sn2004dj
+Filter: I
+Npoints: 106
+MJD       Mag    DMag  magsys  Telescope  Detector   Source                             
+53219.81 11.36 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53221.82 11.33 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53222.9 11.50 0.07 Landolt   Szeged-0.4m   SBIG-ST-9E   Vinko et al.(2006),MNRAS,369,1780
+53226.1 11.40 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53227.9 11.45 0.05 Landolt   Szeged-0.4m   SBIG-ST-9E   Vinko et al.(2006),MNRAS,369,1780
+53228.1 11.39 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53229.1 11.39 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53229.5 11.67 0.06 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53229.9 11.39 0.03 Landolt   Szeged-0.4m   SBIG-ST-9E   Vinko et al.(2006),MNRAS,369,1780
+53233.9 11.42 0.03 Landolt   Szeged-0.4m   SBIG-ST-9E   Vinko et al.(2006),MNRAS,369,1780
+53235.5 11.66 0.07 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53236.1 11.40 0.03 Landolt   Konkoly-RCC-0.1m   Princeton-Versarray   Vinko et al.(2006),MNRAS,369,1780
+53237.77 11.34 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53242.07 11.31 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53245.9 11.43 0.03 Landolt   Szeged-0.4m   SBIG-ST-9E   Vinko et al.(2006),MNRAS,369,1780
+53246.8 11.45 0.03 Landolt   Szeged-0.4m   SBIG-ST-9E   Vinko et al.(2006),MNRAS,369,1780
+53247.5 11.72 0.06 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53248.97 11.44 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53249.5 11.70 0.07 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53254.02 11.36 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53255.06 11.40 0.02 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53257.08 11.41 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53258.5 11.80 0.07 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53259.10 11.46 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53260.5 11.72 0.07 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53261.10 11.41 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53263.04 11.56 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53266.2 11.65 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53269.01 11.60 0.02 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53269.5 11.84 0.07 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53280.5 11.96 0.08 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53283.5 12.21 0.10 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53286.5 12.37 0.06 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53287.5 12.32 0.10 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53290.5 12.49 0.20 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53293.99 13.01 0.03 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53296.5 13.45 0.12 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53303.5 13.43 0.07 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53305.5 13.43 0.07 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53306.99 13.78 0.03 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53309.13 13.74 0.02 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53311.9 13.95 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53312.10 13.72 0.03 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53314.5 13.47 0.06 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53315.07 13.80 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53317.01 13.86 0.03 Landolt   Crimean-0.6m   AP-7p    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53318.04 13.82 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53320.02 13.83 0.02 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53320.9 13.99 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53321.06 13.85 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53322.5 13.37 0.12 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53323.03 13.85 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53325.2 14.03 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53326.5 13.07 0.16 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53331.03 13.86 0.02 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53334.1 14.12 0.06 Landolt   Konkoly-RCC-0.1m   Princeton-Versarray   Vinko et al.(2006),MNRAS,369,1780
+53343.0 14.11 0.03 Landolt   Konkoly-RCC-0.1m   Princeton-Versarray   Vinko et al.(2006),MNRAS,369,1780
+53346.2 14.10 0.03 Landolt   Konkoly-RCC-0.1m   Princeton-Versarray   Vinko et al.(2006),MNRAS,369,1780
+53353.5 13.21 0.20 AB   NAOC   Ford_Aerospace   Zhang et al. (2006),AJ,131,2245
+53369.1 14.18 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53370.1 14.17 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53375.9 14.17 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53388.90 14.09 0.02 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53391.0 14.28 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53405.83 14.15 0.02 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53411.78 14.16 0.03 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53411.9 14.43 0.05 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53426.88 14.21 0.03 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53427.9 14.45 0.05 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53429.9 14.51 0.03 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53431.88 14.31 0.04 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53443.78 14.41 0.03 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53445.90 14.43 0.03 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53455.90 14.46 0.03 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53460.8 14.74 0.04 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53462.8 14.75 0.04 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53464.8 14.76 0.04 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53464.83 14.62 0.06 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53465.8 14.82 0.04 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53501.6 15.02 0.04 Landolt   FLWO-0.12m   Minicam   Vinko et al.(2006),MNRAS,369,1780
+53503.8 15.10 0.04 Landolt   Konkoly-Schmidt   --   Vinko et al.(2006),MNRAS,369,1780
+53508.82 14.97 0.05 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53579.96 15.71 0.05 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53586.97 15.75 0.04 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53592.96 15.87 0.07 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53607.02 15.89 0.07 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53612.05 16.06 0.07 Landolt   Crimean-0.6m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53620.94 16.03 0.06 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53628.00 16.06 0.04 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53646.98 16.13 0.08 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53676.05 16.47 0.05 Landolt   Crimean-0.6m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53683.94 16.54 0.04 Landolt   Crimean-0.6m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53684.1 16.44 0.06 Landolt   Konkoly-Schmidt   --   Vinko et al.(2008): astro-ph:0812.1589
+53762.0 16.86 0.09 Landolt   Konkoly-Schmidt   --   Vinko et al.(2008): astro-ph:0812.1589
+53800.97 16.95 0.10 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53821.77 17.00 0.08 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53858.83 16.96 0.07 Landolt   SAI-0.7m   AP-7p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53971.1 17.00 0.09 Landolt   Konkoly-Schmidt   --   Vinko et al.(2008): astro-ph:0812.1589
+53985.8 17.07 0.06 Landolt   Konkoly-1m   --   Vinko et al.(2008): astro-ph:0812.1589
+54001.1 17.08 0.08 Landolt   Konkoly-Schmidt   --   Vinko et al.(2008): astro-ph:0812.1589
+54026.1 16.96 0.08 Landolt   Konkoly-Schmidt   --   Vinko et al.(2008): astro-ph:0812.1589
+54092.0 17.08 0.08 Landolt   Konkoly-Schmidt   --   Vinko et al.(2008): astro-ph:0812.1589
+54097.1 17.08 0.08 Landolt   Konkoly-Schmidt   --   Vinko et al.(2008): astro-ph:0812.1589
+54140.9 17.01 0.08 Landolt   Konkoly-1m   --   Vinko et al.(2008): astro-ph:0812.158
+54165.8 16.99 0.08 Landolt   Konkoly-1m   --   Vinko et al.(2008): astro-ph:0812.158
+54418.02 17.32 0.11 Landolt   Crimean-0.6m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9

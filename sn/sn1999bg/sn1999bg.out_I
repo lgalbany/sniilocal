@@ -1,0 +1,12 @@
+SN: sn1999bg
+Filter: I
+Npoints:            8
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+ 51270.500    15.255     0.020   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 51293.250    15.334     0.023   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 51304.250    15.350     0.020   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 51307.250    15.346     0.027   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 51314.250    15.348     0.019   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 51329.250    15.395     0.025   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 51339.250    15.411     0.019   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+ 51348.250    15.465     0.043   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F

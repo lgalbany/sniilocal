@@ -1,0 +1,13 @@
+Name: sn2005ay
+Type: SNIIP
+Zhel: 0.002699
+Redshift_error: 0.000013
+Zcmb: 0.003462
+Distance(m-M): 30.82
+Distance_error(m-M): 0.0
+Distance_method: Tsvetkov06
+Ra:  178.200292
+Dec:  44.101111
+MaxEpoch: 53449.9
+E(B-V)_MW: 0.021
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

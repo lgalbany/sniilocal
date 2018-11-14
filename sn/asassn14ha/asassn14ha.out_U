@@ -1,0 +1,42 @@
+SN: asassn14ha
+Filter: U
+Npoints:           38
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56920.30800    14.217     0.023  Landolt         1m0-05             --            Valenti et al. 2016: 2016arXiv160308953V
+    56920.31100    14.230     0.021  Landolt         1m0-05             --            Valenti et al. 2016: 2016arXiv160308953V
+    56922.34500    14.275     0.025  Landolt         1m0-09             --            Valenti et al. 2016: 2016arXiv160308953V
+    56922.34800    14.285     0.021  Landolt         1m0-09             --            Valenti et al. 2016: 2016arXiv160308953V
+    56925.36900    14.407     0.023  Landolt         1m0-04             --            Valenti et al. 2016: 2016arXiv160308953V
+    56925.37200    14.393     0.020  Landolt         1m0-04             --            Valenti et al. 2016: 2016arXiv160308953V
+    56926.12700    14.385     0.041  Landolt         1m0-12             --            Valenti et al. 2016: 2016arXiv160308953V
+    56926.12800    14.450     0.047  Landolt         1m0-12             --            Valenti et al. 2016: 2016arXiv160308953V
+    56928.75100    14.626     0.047  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56928.75300    14.669     0.052  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56930.66500    14.443     0.057  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56932.56000    14.915     0.070  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56934.04200    14.874     0.060  Landolt         1m0-12             --            Valenti et al. 2016: 2016arXiv160308953V
+    56934.04400    14.833     0.059  Landolt         1m0-12             --            Valenti et al. 2016: 2016arXiv160308953V
+    56935.75900    14.992     0.038  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56935.76000    14.944     0.045  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56937.53800    15.179     0.075  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56937.54000    15.115     0.077  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56938.72100    15.274     0.085  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56938.72100    15.147     0.079  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56938.72300    15.233     0.077  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56938.72300    15.138     0.072  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56939.53000    15.430     0.062  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56941.52400    15.295     0.058  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56946.72700    15.698     0.062  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56946.72900    15.661     0.085  Landolt         1m0-11             --            Valenti et al. 2016: 2016arXiv160308953V
+    56947.51100    16.006     0.125  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56947.51200    16.036     0.129  Landolt         1m0-03             --            Valenti et al. 2016: 2016arXiv160308953V
+    56952.84800    16.313     0.202  Landolt         1m0-12             --            Valenti et al. 2016: 2016arXiv160308953V
+    56982.21800    16.836     0.083  Landolt         1m0-05             --            Valenti et al. 2016: 2016arXiv160308953V
+    56982.22000    17.026     0.090  Landolt         1m0-05             --            Valenti et al. 2016: 2016arXiv160308953V
+    56988.91000    16.902     0.123  Landolt         1m0-10             --            Valenti et al. 2016: 2016arXiv160308953V
+    57002.24200    17.317     0.157  Landolt         1m0-05             --            Valenti et al. 2016: 2016arXiv160308953V
+    57002.24300    17.286     0.163  Landolt         1m0-05             --            Valenti et al. 2016: 2016arXiv160308953V
+    57007.94900    17.103     0.127  Landolt         1m0-12             --            Valenti et al. 2016: 2016arXiv160308953V
+    57007.95000    17.450     0.154  Landolt         1m0-12             --            Valenti et al. 2016: 2016arXiv160308953V
+    57013.78800    17.598     0.241  Landolt         1m0-10             --            Valenti et al. 2016: 2016arXiv160308953V
+    57013.79000    17.630     0.230  Landolt         1m0-10             --            Valenti et al. 2016: 2016arXiv160308953V

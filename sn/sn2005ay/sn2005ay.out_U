@@ -1,0 +1,9 @@
+SN: sn2005ay
+Filter: U
+Npoints: 5
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+53457.950 14.67 0.11 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53462.860 14.84 0.21 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53464.920 15.01 0.20 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
+53494.820 17.58 0.16 Landolt   C60  VA-1300B   Tsetkov et al. :astro-ph/0605184
+53499.860 17.57 0.10 Landolt   C60  VA-1300B   Tsetkov et al. :astro-ph/0605184

@@ -1,0 +1,39 @@
+SN: sn1999br
+Filter: V
+Npoints: 35
+MJD       Mag    DMag  magsys  Telescope   Detector   Source
+51283.00 17.617 0.015 Landolt  CTIO-0.9m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51284.00 17.537 0.015 Landolt  CTIO-0.9m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51285.00 17.517 0.015 Landolt  CTIO-0.9m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51286.00 17.571 0.015 Landolt  CTIO-0.9m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51291.00 17.486 0.015 Landolt  CTIO-1.5m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51294.00 17.515 0.012 Landolt  CTIO-0.9m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51294.00 17.502 0.011 Landolt  ESO-1.54m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51295.00 17.515 0.029 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51296.00 17.604 0.023 Landolt  CTIO-1.5m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51298.98 17.603 0.042 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51301.00 17.609 0.011 Landolt  CTIO-1.5m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51301.00 17.602 0.015 Landolt  ESO-NTT     --         Galbany et al. 2016: 2016AJ....151...33G  
+51301.02 17.571 0.026 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51304.00 17.596 0.015 Landolt  CTIO-1.5m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51305.00 17.602 0.015 Landolt  ESO-NTT     --         Galbany et al. 2016: 2016AJ....151...33G  
+51305.25 17.603 0.016 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51309.00 17.605 0.007 Landolt  ESO-1.54m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51309.11 17.589 0.016 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51314.07 17.544 0.015 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51317.00 17.612 0.015 Landolt  ESO-NTT     --         Galbany et al. 2016: 2016AJ....151...33G  
+51318.09 17.523 0.015 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51323.00 17.625 0.040 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51327.99 17.527 0.022 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51329.98 17.552 0.015 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51334.99 17.569 0.016 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51337.00 17.63  0.01  Landolt  TNG         OIG        Pastorello et al. :Mon.Not.R.Astron.Soc.,347,74,2004
+51344.98 17.570 0.019 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51351.96 17.603 0.018 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G  
+51355.98 17.659 0.025 Landolt  CTIO-1.0m   --         Galbany et al. 2016: 2016AJ....151...33G   
+51643.00 22.188 0.068 Landolt  ESO-NTT     --         Galbany et al. 2016: 2016AJ....151...33G  
+51365.97 17.68  0.01  Landolt  Danish-1.54 DFOSC      Pastorello et al. :Mon.Not.R.Astron.Soc.,347,74,2004
+51366.95 17.69  0.04  Landolt  TNG         OIG        Pastorello et al. :Mon.Not.R.Astron.Soc.,347,74,2004
+51379.98 17.69  0.01  Landolt  Danish-1.54 DFOSC      Pastorello et al. :Mon.Not.R.Astron.Soc.,347,74,2004
+51636.09 22.60  0.15  Landolt  NTT         EMMI       Pastorello et al. :Mon.Not.R.Astron.Soc.,347,74,2004
+51643.19 22.68  0.08  Landolt  NTT         EMMI       Pastorello et al. :Mon.Not.R.Astron.Soc.,347,74,2004

@@ -1,0 +1,15 @@
+Name: sn2005z
+Type: SNIIP
+Zhel:      0.019233000
+Redshift_error:    3.3000000e-05
+Zcmb:      0.020307000
+Ra:        161.28825
+Dec:        22.077306
+Epoch: 2000
+E(B-V)_MW:      0.025000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 3363
+Host_type: S?
+Offset(deg):     0.0015986692
+Major_diameter(arcmin):        1.3000000
+Minor_diameter(arcmin):       0.80000000

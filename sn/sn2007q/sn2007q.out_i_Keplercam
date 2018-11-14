@@ -1,0 +1,19 @@
+SN: sn2007q
+Filter: i_Keplercam
+Npoints:           15
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    54129.49966    17.574     0.032       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54138.43897    17.670     0.032       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54139.45398    17.686     0.031       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54139.50831    17.697     0.045       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54140.52177    17.604     0.033       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54141.41135    17.630     0.027       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54148.42034    17.490     0.029       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54160.48535    17.501     0.035       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54166.47110    17.774     0.029       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54188.34230    18.259     0.040       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54193.38743    18.670     0.048       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54218.38502    19.503     0.135       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54219.38596    19.672     0.122       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54220.35432    20.239     0.218       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    54220.45005    20.265     0.159       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H

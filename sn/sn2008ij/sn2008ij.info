@@ -1,0 +1,18 @@
+Name: sn2008ij
+Type: SNIIP
+Zhel:     0.0049500000
+Redshift_error:    5.0000000e-06
+Zcmb:     0.0047100000
+Ra:        274.96587
+Dec:        74.565250
+Epoch: 2000
+E(B-V)_MW:      0.053000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 6643
+Host_type: SA(rs)c
+Distance(m-M):        31.630000
+Distance_error(m-M):       0.25000000
+Distance_method: NED
+Offset(deg):     0.0067475497
+Major_diameter(arcmin):        3.8000000
+Minor_diameter(arcmin):        1.9000000

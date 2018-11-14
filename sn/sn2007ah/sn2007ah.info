@@ -1,0 +1,12 @@
+Name: sn2007ah
+Type: II
+Zhel: 0.0192
+Redshift_error: nan
+Ra: 60.5770833333
+Dec: 25.8185555556
+Epoch: 2000
+E(B-V)_MW: 0.2145
+E(B-V)_MW_error: 0.0206
+E(B-V)_MW_Ref: Schlafly & Finkbeiner (2011): 2011ApJ...737..103S
+Host: UGC 2931
+Offset(deg): 0.002472501978

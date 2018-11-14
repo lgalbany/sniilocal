@@ -1,0 +1,19 @@
+SN: sn2013ej
+Filter: uvm2_swift
+Npoints:           15
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56503.96000    12.020     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56504.82000    12.200     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56507.05000    12.700     0.040  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56508.84000    13.160     0.050  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56512.18000    13.970     0.060  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56513.21000    14.410     0.060  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56515.78000    15.150     0.080  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56517.83000    15.960     0.070  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56521.65000    17.110     0.200  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56523.72000    17.550     0.220  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56526.84000    18.220     0.170  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56531.74000    18.570     0.210  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56541.41000    19.140     0.190  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56551.73000    19.490     0.240  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446
+    56571.82000    19.880     0.330  Landolt          SWIFT           UVOT                 Huang et al. 2015: arXiv:1504.00446

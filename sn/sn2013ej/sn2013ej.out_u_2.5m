@@ -1,0 +1,9 @@
+SN: sn2013ej
+Filter: u_2.5m
+Npoints:            5
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56517.31200    13.820     0.049  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56524.32700    14.841     0.035  Landolt          LCOGT         1m0-05             Valenti et al. 2013: astro-ph/1309.4269
+    56525.30700    14.782     0.046  Landolt          LCOGT         1m0-04             Valenti et al. 2013: astro-ph/1309.4269
+    56526.30400    15.066     0.072  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269
+    56529.29600    15.080     0.030  Landolt          LCOGT         1m0-09             Valenti et al. 2013: astro-ph/1309.4269

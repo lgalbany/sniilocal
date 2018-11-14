@@ -1,0 +1,39 @@
+SN: sn2009n
+Filter: i_2.5m
+Npoints:           35
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    54862.30000    16.102     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54863.30000    16.050     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54866.30000    16.053     0.019       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54868.30000    16.050     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54870.30000    16.039     0.018       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54874.30000    16.026     0.020       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54874.30000    16.026     0.020       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54877.30000    16.017     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54881.20000    15.955     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54883.20000    15.932     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54885.20000    15.904     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54889.20000    15.861     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54896.20000    15.814     0.015       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54903.20000    15.730     0.024       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54905.20000    15.763     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54908.20000    15.755     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54909.20000    15.773     0.015       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54912.10000    15.760     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54914.10000    15.778     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54916.10000    15.774     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54918.20000    15.787     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54922.10000    15.780     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54929.10000    15.871     0.022       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54932.10000    15.848     0.017       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54939.20000    15.946     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54942.10000    16.019     0.016       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54945.10000    16.095     0.023       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54950.10000    16.251     0.019       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54952.10000    16.334     0.018       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54955.10000    16.605     0.021       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54960.10000    17.395     0.035       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54961.10000    17.463     0.029       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54963.00000    17.473     0.029       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54974.10000    17.634     0.026       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525
+    54995.00000    17.900     0.025       AB         PROMPT             --               Takats et al. 2013:astro-ph/1311.2525

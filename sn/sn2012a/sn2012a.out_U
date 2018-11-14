@@ -1,0 +1,21 @@
+SN: sn2012a
+Filter: U
+Npoints:           17
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55936.25000    13.160     0.070  Landolt         ALFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55947.93000    13.850     0.050  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55949.96000    14.260     0.030  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55950.93000    14.260     0.020  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55953.05000    14.560     0.040  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55953.88000    14.630     0.070  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55955.94000    15.000     0.030  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55956.93000    15.380     0.030  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55968.08000    15.630     0.030  Landolt          CAFOS             --                Tomasella et al. 2013arXiv:1305.5789
+    55974.97000    16.440     0.040  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55975.97000    16.280     0.060  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55980.04000    16.450     0.070  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55983.01000    16.660     0.040  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55985.96000    16.930     0.060  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    55999.16000    17.190     0.060  Landolt          EFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    56003.96000    17.230     0.080  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789
+    56017.94000    17.830     0.170  Landolt          AFOSC             --                Tomasella et al. 2013arXiv:1305.5789

@@ -1,0 +1,8 @@
+SN: sn1999br
+Filter: usno_z
+Npoints: 4
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+51294.00 16.902 0.020 Landolt  ESO-1.54m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51301.00 16.859 0.015 Landolt  ESO-NTT    --         Galbany et al. 2016: 2016AJ....151...33G  
+51305.00 16.796 0.015 Landolt  ESO-NTT    --         Galbany et al. 2016: 2016AJ....151...33G  
+51317.00 16.597 0.015 Landolt  ESO-NTT    --         Galbany et al. 2016: 2016AJ....151...33G  

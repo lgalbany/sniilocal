@@ -1,0 +1,8 @@
+SN: sn2012a
+Filter: B_swift
+Npoints:            4
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+  55937.31   14.184100    0.153729  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55937.60   14.138100    0.072869  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55940.54   14.126500    0.083440  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190
+  55947.28   14.337200    0.082266  Landolt   SWIFT    UVOT           Pritchard et al. 2013: astro-ph/1303.1190

@@ -1,0 +1,17 @@
+SN: sn2009ib
+Filter: J-2mass
+Npoints:           13
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55056.30000    15.360     0.220  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55063.30000    15.150     0.270  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55068.30000    15.130     0.180  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55073.40000    15.060     0.110  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55084.20000    14.910     0.150  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55089.30000    14.920     0.070  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55095.20000    14.870     0.160  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55100.20000    14.840     0.220  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55116.30000    14.670     0.680  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55121.30000    14.770     0.180  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55128.20000    14.730     0.050  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55141.20000    14.760     0.170  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404
+    55146.30000    14.720     0.120  Landolt            REM             --                Takats et al. 2015: arXiv:1504.02404

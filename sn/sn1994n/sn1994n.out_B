@@ -1,0 +1,6 @@
+SN: sn1994n
+Filter: B
+Npoints: 2
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+49481.98 19.44 0.04 Landolt   ESO-3.6  EFOSC1   Pastorello et al. :Mon.Not.R.Astron.Soc.347,74(2004)
+49485.98 19.48 0.01 Landolt   ESO-2.2  EFOSC2   Pastorello et al. :Mon.Not.R.Astron.Soc.347,74(2004)

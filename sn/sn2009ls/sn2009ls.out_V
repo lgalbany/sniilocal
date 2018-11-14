@@ -1,0 +1,25 @@
+SN: sn2009ls
+Filter: B
+Npoints:           22
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+55160.4851   14.7934   0.09  Landolt -- --  OpenSourceCatalog
+55162.43632   14.7606  0.09   Landolt -- --  OpenSourceCatalog
+55163.41193   14.7277  0.09   Landolt -- --  OpenSourceCatalog
+55165.60705   14.7441  0.09   Landolt -- --  OpenSourceCatalog
+55166.58266   14.7113  0.09   Landolt -- --  OpenSourceCatalog
+55168.77778   14.8756  0.09   Landolt -- --  OpenSourceCatalog
+55172.68018   14.777   0.09  Landolt -- --  OpenSourceCatalog
+55182.68018   14.9085  0.09   Landolt -- --  OpenSourceCatalog
+55189.50948   15.0563  0.09   Landolt -- --  OpenSourceCatalog
+55191.46068   15.1221  0.09   Landolt -- --  OpenSourceCatalog
+55199.50948   15.3028  0.09   Landolt -- --  OpenSourceCatalog
+55202.68018   15.4178  0.09   Landolt -- --  OpenSourceCatalog
+55213.41188   15.6808  0.09   Landolt -- --  OpenSourceCatalog
+55214.63148   15.6972  0.09   Landolt -- --  OpenSourceCatalog
+55217.55828   15.7793  0.09   Landolt -- --  OpenSourceCatalog
+55219.50948   15.8122  0.09   Landolt -- --  OpenSourceCatalog
+55221.70458   15.8615  0.09   Landolt -- --  OpenSourceCatalog
+55224.63148   15.9108  0.09   Landolt -- --  OpenSourceCatalog
+55231.46068   16.108   0.09  Landolt -- --  OpenSourceCatalog
+55240.48508   16.4202  0.09   Landolt -- --  OpenSourceCatalog
+55248.53388   16.946   0.09  Landolt -- --  OpenSourceCatalog

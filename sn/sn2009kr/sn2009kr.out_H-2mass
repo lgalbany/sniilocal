@@ -1,0 +1,21 @@
+SN: sn2009kr
+Filter: H-2mass
+Npoints:           17
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55147.38000    14.504     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55150.36000    14.246     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55152.40000    14.181     0.175  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55153.39000    14.214     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55156.31000    14.191     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55158.32000    14.186     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55159.32000    14.142     0.175  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55160.32000    14.122     0.175  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55161.33000    14.254     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55162.33000    14.130     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55167.24000    14.198     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55168.24000    14.195     0.175  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55169.26000    14.256     0.175  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55170.26000    14.300     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55171.27000    14.399     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55175.28000    14.328     0.175  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H
+    55177.27000    14.360     0.250  Landolt             --       PAIRITEL           Hicken et al. (2017): 2017arXiv170601030H

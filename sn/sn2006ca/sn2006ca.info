@@ -1,0 +1,12 @@
+Name: sn2006ca
+Type: II
+Zhel: 0.0088
+Redshift_error: nan
+Ra: 275.725625
+Dec: 12.4342222222
+Epoch: 2000
+E(B-V)_MW: 0.199
+E(B-V)_MW_error: 0.0073
+E(B-V)_MW_Ref: Schlafly & Finkbeiner (2011)
+Host: UGC 11214
+Offset(deg): 0.00668889424

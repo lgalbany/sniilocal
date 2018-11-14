@@ -1,0 +1,19 @@
+SN: sn2012ec
+Filter: g_2.5m
+Npoints:           15
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56159.31000    15.050     0.070  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56160.30000    15.130     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56165.28000    15.250     0.080  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56179.34000    15.540     0.020  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56186.20000    15.510     0.040  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56196.20000    15.560     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56202.20000    15.610     0.060  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56204.21000    15.710     0.040  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56211.05000    15.680     0.030  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56226.45000    15.990     0.060  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56232.13000    16.000     0.060  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56237.12000    16.200     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56242.13000    16.380     0.060  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56250.19000    17.240     0.050  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56253.08000    17.450     0.100  AB             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B

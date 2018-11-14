@@ -1,0 +1,18 @@
+Name: sn2009kr
+Type: SNIIL
+Zhel:     0.0064680000
+Redshift_error:    1.7000000e-05
+Zcmb:     0.0065090000
+Ra:        78.013750
+Dec:       -15.697833
+Epoch: 2000
+E(B-V)_MW:      0.065000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 1832
+Host_type: SB(r)bc
+Distance(m-M):        31.950000
+Distance_error(m-M):       0.50000000
+Distance_method: NED
+Offset(deg):      0.010027722
+Major_diameter(arcmin):        2.6000000
+Minor_diameter(arcmin):        1.7000000

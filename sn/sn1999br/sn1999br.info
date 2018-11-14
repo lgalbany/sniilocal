@@ -1,0 +1,12 @@
+Name: sn1999br
+Type: SNIIP
+zhel: 0.00320
+Redshift_error: 0.00001
+zcmb: 0.00429
+Ra:  195.174167
+Dec:  2.496056
+Host: 	NGC 4900
+Host_type: SB(rs)c
+E(B-V)_MW: 0.024
+Distance(m-M): 31.19
+Distance_error(m-M): 0.40

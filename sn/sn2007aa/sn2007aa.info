@@ -1,0 +1,18 @@
+Name: sn2007aa
+Type: SNIIP
+Zhel:     0.0048870000
+Redshift_error:    1.3000000e-05
+Zcmb:     0.0060910000
+Ra:        180.11538
+Dec:       -1.0810000
+Epoch: 2000
+E(B-V)_MW:      0.023000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 4030
+Host_type: SA(s)bc
+Distance(m-M):        31.930000
+Distance_error(m-M):       0.26000000
+Distance_method: NED
+Offset(deg):      0.025517447
+Major_diameter(arcmin):        3.2700000
+Minor_diameter(arcmin):        1.7100000

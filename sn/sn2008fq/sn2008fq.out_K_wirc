@@ -1,0 +1,10 @@
+SN: sn2008fq
+Filter: K_wirc
+Npoints:            6
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    54726.03000    14.467     0.011  Landolt            DUP             --              Taddia et al. 2013: astro-ph/1304.3038
+    54728.14000    14.323     0.009  Landolt            DUP             --              Taddia et al. 2013: astro-ph/1304.3038
+    54729.14000    14.290     0.010  Landolt            DUP             --              Taddia et al. 2013: astro-ph/1304.3038
+    54746.03000    13.890     0.011  Landolt            DUP             --              Taddia et al. 2013: astro-ph/1304.3038
+    54751.05000    13.938     0.016  Landolt            DUP             --              Taddia et al. 2013: astro-ph/1304.3038
+    54756.09000    14.065     0.011  Landolt            DUP             --              Taddia et al. 2013: astro-ph/1304.3038

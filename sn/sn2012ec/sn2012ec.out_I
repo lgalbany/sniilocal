@@ -1,0 +1,35 @@
+SN: sn2012ec
+Filter: I
+Npoints:           31
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    56157.59000    14.550     0.050  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56158.34000    14.530     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56159.31000    14.530     0.050  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56160.30000    14.610     0.060  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56176.13000    14.620     0.060  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56179.34000    14.450     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56180.92000    14.510     0.010  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56181.59000    14.530     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56186.20000    14.490     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56190.24000    14.420     0.050  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56194.87000    14.450     0.010  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56199.29000    14.360     0.010  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56202.20000    14.400     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56204.21000    14.430     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56212.19000    14.410     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56220.42000    14.410     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56221.06000    14.430     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56232.13000    14.590     0.020  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56237.12000    14.670     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56242.13000    14.850     0.030  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56248.14000    15.150     0.040  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56250.19000    15.370     0.050  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56253.08000    15.630     0.050  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56305.66000    16.750     0.300  Landolt             --             --          Barbarino et al. 2014: 2014arXiv1410.8393B
+    56331	   16.88      0.08   Landolt		 SMARTS 	--	    Jerkstrand et al. 2014: 2014arXiv1410.8394J
+    56346	   17.19      0.09   Landolt		 LT		--	    Jerkstrand et al. 2014: 2014arXiv1410.8394J
+    56352	   17.25      0.09   Landolt		 SMARTS 	--	    Jerkstrand et al. 2014: 2014arXiv1410.8394J
+    56546	   20.18      0.09   Landolt		 NTT		--	    Jerkstrand et al. 2014: 2014arXiv1410.8394J
+    56572	   20.38      0.09   Landolt		 NTT		--	    Jerkstrand et al. 2014: 2014arXiv1410.8394J
+    56618	   20.72      0.09   Landolt		 NTT		--	    Jerkstrand et al. 2014: 2014arXiv1410.8394J
+    56649	   21.13      0.11   Landolt		 NTT		--	    Jerkstrand et al. 2014: 2014arXiv1410.8394J

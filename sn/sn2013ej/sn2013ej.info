@@ -1,0 +1,17 @@
+Name: sn2013ej
+Type: SNIIL
+Zhel: 0.002192
+Redshift_error: 0.000003
+Zcmb: 0.001197
+Ra:        24.200667
+Dec:        15.758611
+Epoch: 2000
+E(B-V)_MW:      0.062000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 628
+Host_type: SA(s)c
+Distance(m-M):  29.77
+Distance_error(m-M): 0.28
+Distance_method: NED
+Major_Diameter(arcmin):  10.5
+Minor_Diameter(arcmin):  9.5

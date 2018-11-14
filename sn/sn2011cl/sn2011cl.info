@@ -1,0 +1,12 @@
+Name: sn2011cl
+Type: II
+Zhel: None
+Redshift_error: None
+Zcmb: None
+Ra:        126.70483
+Dec:        20.375500
+Epoch: 2000
+E(B-V)_MW:      0.030000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: PSN J08264916+2022318
+Host_type: None

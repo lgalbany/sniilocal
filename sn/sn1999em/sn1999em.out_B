@@ -1,0 +1,112 @@
+SN: sn1999em
+Filter: B
+Npoints: 108
+MJD      Mag    DMag   magsys   Telescope  Detector   Source
+51481.3  13.852 0.010  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51483.2  13.813 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51484.3  13.830 0.010  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51485.3  13.862 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51486.3  13.891 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51487.3  13.925 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51488.3  13.950 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51489.3  14.014 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51490.3  14.001 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51492.3  14.051 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51493.2  14.084 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51495.2  14.177 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51498.1  14.333 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51498.3  14.395 0.014  Landolt  CTIO-1.5m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51499.3  14.422 0.014  Landolt  CTIO-1.5m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51500.2  14.452 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51501.2  14.476 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51502.2  14.517 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51504.2  14.594 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51506.3  14.685 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51508.3  14.743 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51509.4  14.798 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51511.4  14.820 0.009  Landolt  SO-2.3m    --         Galbany et al. 2016: 2016AJ....151...33G  
+51522.2  15.118 0.012  Landolt  SO-1.6m    --         Galbany et al. 2016: 2016AJ....151...33G  
+51531.3  15.167 0.009  Landolt  SO-2.3m    --         Galbany et al. 2016: 2016AJ....151...33G  
+51538.1  15.301 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51540.0  15.329 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51546.0  15.402 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51550.0  15.434 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51551.1  15.433 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51556.1  15.488 0.014  Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51578.1  16.034 0.010  Landolt  SO-1.6m    --         Galbany et al. 2016: 2016AJ....151...33G  
+51607.1  18.265 0.020  Landolt  SO-1.6m    --         Galbany et al. 2016: 2016AJ....151...33G  
+51636.0  18.318 0.013  Landolt  ESO-NTT    --         Galbany et al. 2016: 2016AJ....151...33G  
+51666.0  18.431 0.020  Landolt  ESO-NTT    --         Galbany et al. 2016: 2016AJ....151...33G  
+51481.44 13.87  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51482.44 13.80  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51483.44 13.80  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51484.44 13.82  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51485.12 13.85  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51485.31 13.89  0.01   Landolt  Danish1.54 DFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+51485.44 13.85  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51486.12 13.90  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51486.23 13.93  0.01   Landolt  Danish1.54 DFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+51487.07 13.90  0.01   Landolt  ESO3.6     EFOSC2     Pastorello(2003):PhD. Thesis, University of Padova
+51487.44 13.92  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51488.44 13.95  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51489.44 13.99  0.01   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51491.44 14.02  0.04   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51492.44 14.07  0.15   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51493.44 14.09  0.01   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51494.44 14.15  0.01   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51495.44 14.20  0.01   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51496.44 14.25  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51498.28 14.357 0.015  Landolt  CTIO-1.5   --         Hamuy et al. :ApJ,558,615,2001
+51498.44 14.34  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51499.31 14.414 0.015  Landolt  CTIO-1.5   --         Hamuy et al. :ApJ,558,615,2001
+51501.44 14.47  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51508.44 14.73  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51510.44 14.79  0.04   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51511.35 14.833 0.015  Landolt  SO-2.3     --         Hamuy et al. :ApJ,558,615,2001
+51514.44 14.87  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51517.30 14.93  0.01   Landolt  ESO3.6     EFOSC2     Pastorello(2003):PhD. Thesis, University of Padova
+51518.44 14.94  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51520.34 14.97  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51522.20 15.142 0.015  Landolt  SO-1.5     --         Hamuy et al. :ApJ,558,615,2001
+51523.04 15.01  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51523.34 14.98  0.04   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51525.01 15.06  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51526.04 15.08  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51526.34 15.04  0.04   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51527.07 15.07  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51527.34 15.05  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51530.23 15.11  0.01   Landolt  ESO3.6     EFOSC2     Pastorello(2003):PhD. Thesis, University of Padova
+51530.34 15.09  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51531.26 15.185 0.015  Landolt  SO-2.3     --         Hamuy et al. :ApJ,558,615,2001
+51538.09 15.20  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51540.00 15.25  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51541.21 15.28  0.02   Landolt  Danish1.54 DFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+51541.34 15.27  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51546.34 15.32  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51548.01 15.33  0.01   Landolt  TNG        OIG        Pastorello(2003):PhD. Thesis, University of Padova
+51551.24 15.38  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51556.24 15.40  0.04   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51558.24 15.52  0.09   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51570.24 15.63  0.05   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51574.94 15.81  0.04   Landolt  Asiago1.82 AFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+51576.24 15.74  0.02   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51578.13 16.060 0.015  Landolt  SO-1.5     --         Hamuy et al. :ApJ,558,615,2001
+51581.24 15.87  0.03   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51583.82 16.22  0.13   Landolt  Asiago1.82 AFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+51590.03 16.29  0.05   Landolt  Danish1.54 DFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+51607.14 18.388 0.040  Landolt  SO-1.5     --         Hamuy et al. :ApJ,558,615,2001
+51607.24 17.77  0.05   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51614.14 17.99  0.05   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51619.14 17.97  0.09   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51624.14 18.06  0.12   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51629.24 18.10  0.10   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51635.54 18.370 0.030  Landolt  ESO        NTT        Hamuy et al. :ApJ,558,615,2001
+51637.24 17.98  0.09   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51642.02 18.17  0.05   Landolt  ESO3.6     EFOSC2     Pastorello(2003):PhD. Thesis, University of Padova
+51665.47 18.600 0.035  Landolt  ESO        NTT        Hamuy et al. :ApJ,558,615,2001
+51787.24 19.13  0.02   Landolt  TNG        DOLORES    Pastorello(2003):PhD. Thesis, University of Padova
+51812.54 18.79  0.08   Landolt  KAIT       AP7        Leonard et al. :PASP,114,35,2002
+51866.27 19.81  0.18   Landolt  Danish1.54 DFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+51941.15 20.24  0.06   Landolt  ESO3.6     EFOSC2     Pastorello(2003):PhD. Thesis, University of Padova
+51985.03 20.69  0.09   Landolt  Danish1.54 DFOSC      Pastorello(2003):PhD. Thesis, University of Padova
+52129.41 21.93  0.20   Landolt  Danish1.54 DFOSC      Pastorello(2003):PhD. Thesis, University of Padova

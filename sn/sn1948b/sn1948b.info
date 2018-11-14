@@ -1,0 +1,18 @@
+Name: sn1948b
+Type: SNII
+Zhel:    0.00013300000
+Redshift_error:    7.0000000e-06
+Zcmb:   -0.00047100000
+Ra:        308.83958
+Dec:        60.171280
+Epoch: 2000
+E(B-V)_MW:       0.30400000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 6946
+Host_type: SAB(rs)cd
+Distance(m-M):        28.700000
+Distance_error(m-M):       0.48000000
+Distance_method: NED
+Offset(deg):      0.062926909
+Major_diameter(arcmin):        11.500000
+Minor_diameter(arcmin):        9.8000000

@@ -1,0 +1,14 @@
+Name: sn2009md
+Type: SNIIP
+Zhel:      0.004364
+Redshift_error:       0.000019
+Zcmb:      0.005524
+Ra:        162.109500
+Dec:       12.534111
+Distance(m-M): 31.63
+Distance_error(m-M): 0.15
+Distance_method: NED
+Host_name: NGC 3389
+Host_type: SA(s)c
+E(B-V)_MW: 0.027
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

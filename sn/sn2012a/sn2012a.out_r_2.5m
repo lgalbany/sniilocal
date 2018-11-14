@@ -1,0 +1,33 @@
+SN: sn2012a
+Filter: r_2.5m
+Npoints:           29
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55939.25000    13.880     0.070     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55940.27000    13.900     0.100     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55944.21000    13.900     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55947.23000    13.860     0.080     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55952.24000    13.950     0.050     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55957.21000    14.090     0.060     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55966.20000    14.020     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55971.18000    14.060     0.030     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55974.18000    14.070     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55978.32000    14.140     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55981.17000    14.200     0.060     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55984.15000    14.140     0.060     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55987.14000    14.260     0.050     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55990.13000    14.110     0.050     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    55998.12000    14.270     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56000.11000    14.270     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56003.05000    14.400     0.050     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56005.12000    14.350     0.030     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56008.12000    14.390     0.060     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56010.08000    14.420     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56013.04000    14.570     0.060     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56016.07000    14.560     0.050     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56020.06000    14.610     0.050     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56026.13000    14.820     0.050     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56029.11000    14.970     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56032.13000    15.100     0.070     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56034.15000    15.190     0.060     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56036.04000    15.340     0.040     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789
+    56039.04000    15.720     0.090     SDSS             --             --                Tomasella et al. 2013arXiv:1305.5789

@@ -1,0 +1,16 @@
+SN: sn2004dj
+Filter: U
+Npoints: 12
+MJD       Mag    DMag  magsys  Telescope  Detector   Source                             
+53244.07 13.80 0.03 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53248.05 13.92 0.06 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53255.06 14.11 0.05 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53257.08 14.20 0.04 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53261.10 14.20 0.11 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53293.99 16.16 0.09 Landolt   SAI-0.7m   AP-47p   Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53315.07 17.16 0.10 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53318.04 17.11 0.15 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53320.02 17.31 0.09 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53321.06 17.32 0.13 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53323.03 17.30 0.09 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9
+53331.03 17.35 0.10 Landolt   Crimean-0.6m   VersArrayB1300    Tsvetkov et al.(2008): Peremennye Zvezdy 27,No.9

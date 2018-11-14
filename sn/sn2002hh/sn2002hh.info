@@ -1,0 +1,13 @@
+Name: sn2002hh
+Type: SNIIP
+Zhel: 0.000160
+Redshift_error: 0.000007
+Zcmb: -0.000444
+Distance(m-M): 28.79
+Distance_error(m-M): 0.38
+Distance_method: Sosies(NED)/Pozzo06
+Ra:  308.684542
+Dec:  60.121944
+MaxEpoch: 52577.1
+E(B-V)_MW: 0.342
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

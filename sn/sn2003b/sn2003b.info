@@ -1,0 +1,12 @@
+Name: sn2003b
+Type: SNIIP
+zhel: 0.00424
+Redshift_error: 0.00001
+zcmb: 0.00369
+Ra: 41.557417
+Dec: -30.229194
+Host: NGC 1097
+Host_type: SB(s)b
+E(B-V)_MW: 0.027
+Distance(m-M): 31.03
+Distance_error(m-M): 0.26

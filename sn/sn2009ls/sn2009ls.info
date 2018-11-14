@@ -1,0 +1,18 @@
+Name: sn2009ls
+Type: SNII
+Zhel:     0.0033490000
+Redshift_error:    7.0000000e-06
+Zcmb:     0.0045510000
+Ra:        162.81075
+Dec:        5.8496670
+Epoch: 2000
+E(B-V)_MW:      0.026000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: NGC 3423
+Host_type: SA(s)cd
+Distance(m-M):        30.220000
+Distance_error(m-M):       0.16000000
+Distance_method: NED
+Offset(deg):     0.0096904937
+Major_diameter(arcmin):        3.8000000
+Minor_diameter(arcmin):        3.2000000

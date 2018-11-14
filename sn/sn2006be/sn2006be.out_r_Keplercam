@@ -1,0 +1,22 @@
+SN: sn2006be
+Filter: r_Keplercam
+Npoints:           18
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    53825.42262    15.949     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53827.47957    15.965     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53829.48227    16.021     0.019       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53832.44248    15.985     0.019       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53834.36197    16.005     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53834.46944    16.008     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53840.46423    16.047     0.021       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53846.26045    16.040     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53858.41213    16.080     0.019       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53859.38387    16.080     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53862.36365    16.087     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53866.18545    16.171     0.024       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53867.30671    16.085     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53870.40557    16.160     0.019       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53890.44404    16.556     0.019       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53891.32093    16.631     0.020       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53899.39774    17.567     0.029       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H
+    53929.29422    18.265     0.034       AB             --            KEP           Hicken et al. (2017): 2017arXiv170601030H

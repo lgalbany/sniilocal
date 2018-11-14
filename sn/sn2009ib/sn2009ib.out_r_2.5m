@@ -1,0 +1,32 @@
+SN: sn2009ib
+Filter: r_2.5m
+Npoints:           28
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+    55054.40000    15.781     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55064.40000    15.797     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55066.40000    15.828     0.012       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55067.40000    15.830     0.012       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55079.40000    15.910     0.015       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55083.40000    15.912     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55085.30000    15.913     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55087.40000    15.910     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55091.30000    15.924     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55093.20000    15.921     0.012       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55095.30000    15.940     0.016       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55097.40000    15.943     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55099.30000    15.953     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55105.30000    15.955     0.016       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55112.30000    15.965     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55116.30000    15.975     0.015       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55122.30000    15.972     0.011       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55132.30000    15.976     0.015       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55137.20000    15.974     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55140.30000    15.979     0.015       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55151.20000    16.006     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55159.20000    16.051     0.015       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55172.20000    16.229     0.013       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55185.30000    16.981     0.024       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55191.10000    17.184     0.022       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55192.10000    17.222     0.021       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55193.20000    17.316     0.025       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404
+    55198.10000    17.361     0.021       AB         PROMPT             --                Takats et al. 2015: arXiv:1504.02404

@@ -1,0 +1,70 @@
+SN: sn2003gd
+Filter: V
+Npoints: 66
+MJD      Mag     DMag   magsys  Telescope  Detector   Source                             
+52811.4  14.154  0.014  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52817.4  14.333  0.033  Landolt LCO-2.5m   --         Galbany et al. 2016: 2016AJ....151...33G
+52841.3  16.068  0.024  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52843.3  16.684  0.019  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52845.4  17.221  0.014  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52870.3  17.612  0.021  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52906.2  17.865  0.021  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52908.2  17.887  0.012  Landolt LCO-2.5m   --         Galbany et al. 2016: 2016AJ....151...33G
+52952.2  18.254  0.133  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52967.2  18.593  0.026  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52988.1  18.707  0.026  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+53000.0  18.871  0.031  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+53019.0  19.046  0.026  Landolt LCO-1m     --         Galbany et al. 2016: 2016AJ....151...33G
+52807.50 14.166  0.016  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52808.70 14.21   0.02   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52809.71 14.18   0.04   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52810.50 14.166  0.013  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52810.71 14.24   0.04   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52811.71 14.23   0.01   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52812.50 14.252  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52812.70 14.24   0.01   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52817.16 14.29   0.03   Landolt TNG        DOLORES    Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52817.50 14.320  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52817.69 14.37   0.04   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52819.50 14.354  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52821.70 14.42   0.07   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52822.69 14.45   0.06   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52823.50 14.452  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52825.50 14.492  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52827.50 14.546  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52827.68 14.59   0.03   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52829.50 14.644  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52830.71 14.78   0.03   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52831.50 14.753  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52831.72 14.84   0.03   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52833.50 14.851  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52833.72 14.98   0.03   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52834.65 15.04   0.05   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52835.50 15.080  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52835.73 15.17   0.06   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52837.50 15.299  0.010  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52838.73 15.54   0.06   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52841.06 16.02   0.04   Landolt CTA        AFOSC      Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52842.68 16.75   0.04   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52843.50 16.796  0.022  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52843.69 16.89   0.03   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52846.50 17.301  0.029  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52846.69 17.24   0.02   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52847.68 17.26   0.01   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52848.68 17.27   0.01   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52849.50 17.401  0.037  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52849.68 17.36   0.02   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52850.68 17.37   0.04   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52851.68 17.37   0.02   Landolt JKT        JAG        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52855.50 17.397  0.026  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52858.23 17.44   0.03   Landolt TNG        DOLORES    Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52861.50 17.490  0.027  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52870.50 17.612  0.051  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52875.01 17.62   0.05   Landolt CTA        AFOSC      Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52876.21 17.56   0.05   Landolt INT        WFC        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52876.50 17.658  0.027  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52882.50 17.628  0.024  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+52886.11 17.64   0.05   Landolt INT        WFC        Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+52888.50 17.678  0.047  Landolt KAIT2      --         Faran et al. 2014: 2014MNRAS.442..844F
+53209.15 21.33   0.26   Landolt TNG        DOLORES    Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)
+53209.41 21.32   0.07   Landolt VLT-UT1    FORS2      Hendry et al. :Mon.Not.R.Astron.Soc.359,906(2005)

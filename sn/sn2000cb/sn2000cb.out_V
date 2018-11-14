@@ -1,0 +1,39 @@
+SN: sn2000cb
+Filter: V
+Npoints: 34
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+51663.30 18.078 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51675.20 17.195 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51676.25 17.127 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51677.26 17.063 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51681.23 16.889 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51682.31 16.850 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51683.27 16.812 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51684.24 16.784 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51695.07 16.622 0.015 Landolt  ESO-NTT    --         Galbany et al. 2016: 2016AJ....151...33G  
+51699.22 16.583 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51705.19 16.580 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51730.17 16.591 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51738.13 16.641 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51745.15 16.745 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51752.19 16.943 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51757.14 17.164 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51795.01 17.997 0.015 Landolt  CTIO-0.9m  --         Galbany et al. 2016: 2016AJ....151...33G  
+51663.42 18.04  0.03  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51667.43 17.80  0.04  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51692.38 16.62  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51696.37 16.61  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51700.35 16.56  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51706.35 16.59  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51713.32 16.61  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51717.34 16.56  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51721.32 16.56  0.01  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51728.27 16.57  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51735.22 16.63  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51742.23 16.66  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51749.19 16.85  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51756.19 17.18  0.02  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51781.16 17.90  0.05  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51788.16 18.14  0.19  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51795.14 18.20  0.10  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
+51802.14 18.21  0.15  Landolt  KAIT       --         Kleiser et al. 2011, astro-ph/1101.1298
