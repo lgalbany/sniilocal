@@ -1,0 +1,10 @@
+Name: sn2016gfy
+Type: SNII
+Zhel:      0.008059
+Redshift_error:    0.000001
+Zcmb:      0.0080680
+Ra:        111.809833   
+Dec:        85.754556
+Epoch: 2000
+E(B-V)_MW:      0.088
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S

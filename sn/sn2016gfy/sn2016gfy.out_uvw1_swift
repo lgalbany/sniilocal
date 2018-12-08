@@ -1,0 +1,13 @@
+SN: sn2016gfy
+Filter: uvw1_swift
+Npoints:           9
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+57646.12	15.24	0.08	 -- -- -- OSC
+57647.37	15.36	0.08	 -- -- -- OSC
+57650.76	15.69	0.09	 -- -- -- OSC
+57652.72	15.93	0.10	 -- -- -- OSC
+57655.17	16.42	0.14	 -- -- -- OSC
+57662.10	17.47	0.26	 -- -- -- OSC
+57663.76	17.94	nan		 -- -- -- OSC
+57665.49	17.91	nan		 -- -- -- OSC
+57667.94	17.94	nan		 -- -- -- OSC

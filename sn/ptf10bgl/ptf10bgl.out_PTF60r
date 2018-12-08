@@ -1,0 +1,9 @@
+SN: ptf10bgl
+Filter: PTF60r
+Npoints: 5
+MJD       Mag    DMag  magsys  Telescope  Detector   Source
+55271.35  19.660   0.080  --  --  --  Rubin et al. 2016: 2016ApJ...820...33R
+55282.37  19.610   0.140  --  --  --  Rubin et al. 2016: 2016ApJ...820...33R
+55290.33  19.510   0.060  --  --  --  Rubin et al. 2016: 2016ApJ...820...33R
+55297.36  19.910   0.100  --  --  --  Rubin et al. 2016: 2016ApJ...820...33R
+55303.37  20.580   0.190  --  --  --  Rubin et al. 2016: 2016ApJ...820...33R

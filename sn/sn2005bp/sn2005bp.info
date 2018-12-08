@@ -1,0 +1,15 @@
+Name: sn2005bp
+Type: SNII
+Zhel:      0.027646000
+Redshift_error:    7.3000000e-05
+Zcmb:      0.027567000
+Ra:        257.43008
+Dec:        36.418917
+Epoch: 2000
+E(B-V)_MW:      0.029000000
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
+Host: UGC 10732
+Host_type: Scd:
+Offset(deg):     0.0047008158
+Major_diameter(arcmin):       0.90000000
+Minor_diameter(arcmin):       0.70000000

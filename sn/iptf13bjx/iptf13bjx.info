@@ -1,0 +1,10 @@
+Name: iptf13bjx
+Type: SNII
+Zhel:      0.027863
+Redshift_error:    0.000110
+Zcmb:     0.0273189 
+Ra:        213.713594   
+Dec:        36.789970
+Epoch: 2000
+E(B-V)_MW:      0.008
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S

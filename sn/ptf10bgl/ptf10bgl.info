@@ -1,0 +1,10 @@
+Name: ptf10bgl
+Type: SNII
+Zhel: 0.030721
+Redshift_error: 0.00001
+Zcmb: 0.0302903
+Ra: 154.76958
+Dec: 46.456472
+Epoch: 2000
+E(B-V)_MW: 0.0097
+E(B-V)_MW_Ref: Schlegel et al. : 1998ApJ...500..525S

@@ -1,0 +1,10 @@
+Name: asassn14jb
+Type: SNII
+Zhel:      0.006031 
+Redshift_error:    0.000010 
+Zcmb:      0.00659457
+Ra:        335.819208  
+Dec:       -28.980972
+Epoch: 2000
+E(B-V)_MW:      0.017
+E(B-V)_MW_Ref: Schlafly & Finkbeiner 2011, Appendix; 2011ApJ...737..103S
