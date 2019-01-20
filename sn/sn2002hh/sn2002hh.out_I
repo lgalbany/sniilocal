@@ -1,7 +1,7 @@
 SN: sn2002hh
 Filter: I
 Npoints:           49
-Mag    DMag  magsys  Telescope  Detector   Source                             
+MJD    DMag  magsys  Telescope  Detector   Source                             
 52580.10 14.31 0.06 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)   
 52581.12 14.27 0.03 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)
 52583.10 14.19 0.05 Landolt Lick  KAIT   Pozzo et al. :Mon.Not.R.Astron.Soc.368,1169(2006)

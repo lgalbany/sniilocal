@@ -1,7 +1,7 @@
  #Name        #Texp     #error #fuente #spectrum  #comentarios  (> CHECK ATELS)
 asassn14ha   56910.0       2      -     -     1603.08953
 asassn14jb   56946.1       3      -     -     Meza et al.
-iptf13bjx    56450.0       10     -     -     OSC
+iptf13bjx    56442.7       0.48   -     -     http://iopscience.iop.org/article/10.3847/0004-637X/820/1/33/pdf
 ptf09cjq     55043.30      2.96   -     -     http://iopscience.iop.org/article/10.3847/0004-637X/820/1/33/pdf
 ptf10bgl     55198.0       2      -     -     --
 sn1948b      32737.0       10     -     -     --
@@ -15,7 +15,7 @@ sn1999bg     51251.0       14     N     0     [IAU]
 sn1999br     51276.7       4      N     1     [Characterizing the V-band light-curves of hydrogen-rich type II supernovae, Anderson et al, 2014]
 sn1999em     51476.5       5      N     1     [Characterizing the V-band light-curves of hydrogen-rich type II supernovae, Anderson et al, 2014]
 sn1999gi     51517.7       3      S     1     [A STUDY OF THE TYPE II-PLATEAU SUPERNOVA 1999gi AND THE DISTANCE TO ITS HOST GALAXY, NGC 3184. Leonard et al, 2002]
-sn1999gn     51534.0       20     -     -     from snid fit to 1 spectrum
+sn1999gn     51520.0       10     -     -     [Progenitors of low-luminosity Type II-Plateau supernovae, Lisakov et al, 2017]
 sn2001x      51962.7       5      N     1     [IAU]
 sn2002hh     52575.0       2      N     0     [IMPROVED STANDARDIZATION OF TYPE II-P SUPERNOVAE: APPLICATION TO AN EXPANDED SAMPLE, Poznanski et al, 2009]
 sn2003b      52613.5       11     S     1     [Characterizing the V-band light-curves of hydrogen-rich type II supernovae, Anderson et al, 2014]

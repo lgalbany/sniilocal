@@ -1,7 +1,7 @@
 SN: sn1999gi
 Filter: B
 Npoints:           29
-Mag    DMag  magsys  Telescope  Detector   Source
+MJD    DMag   magsys   Telescope  Detector   Source
 51522.44 14.950 0.019 Landolt    FLWO   --   Leonard et al. :AJ,124,2490,2002
 51524.56 14.873 0.045 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002
 51527.48 14.868 0.031 Landolt    KAIT   AP7   Leonard et al. :AJ,124,2490,2002

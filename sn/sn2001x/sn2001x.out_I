@@ -1,19 +1,8 @@
 SN: sn2001x
 Filter: I
-Npoints:           33
-Mag    DMag  magsys  Telescope  Detector   Source
-51988.07 14.74 0.06 Landolt M30   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-51991.00 14.75 0.06 Landolt M30   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-51995.01 14.73 0.06 Landolt M30   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-51996.96 14.75 0.07 Landolt M30   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-51999.00 14.83 0.08 Landolt M30   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-52003.01 14.81 0.05 Landolt M70   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-52009.03 14.87 0.06 Landolt M70   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-52025.96 14.81 0.06 Landolt M70   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-52032.96 14.78 0.05 Landolt M70   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-52045.93 14.88 0.05 Landolt M70   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3
-52063.90 14.77 0.12 Landolt M30   SBIG-ST-6   Tsvetkov et al.(2006),Peremennye Zvezdy,26,3 
-51975.500    15.048     0.032   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
+Npoints:           22
+MJD    DMag  magsys  Telescope  Detector   Source
+ 51975.500    15.048     0.032   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
  51983.500    14.949     0.018   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
  51994.500    14.904     0.014   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F
  51999.500    14.887     0.012   Landolt       KAIT2    --            Faran et al. 2014: 2014MNRAS.442..844F

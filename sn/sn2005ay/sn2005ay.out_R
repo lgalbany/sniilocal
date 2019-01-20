@@ -1,7 +1,7 @@
 SN: sn2005ay
 Filter: R
 Npoints:           51
-Mag    DMag  magsys  Telescope  Detector   Source
+MJD    DMag  magsys  Telescope  Detector   Source
 53457.95 14.98 0.05 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
 53462.86 14.95 0.05 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
 53464.92 14.94 0.07 Landolt   M70  Ap-47   Tsetkov et al. :astro-ph/0605184
