@@ -1,0 +1,42 @@
+# ETC-data for PANcMEx_StarlightChains_v01 #
+#
+#
+# FIR-data #
+FIR
+  11.450          > FIR_logLFIR_TOT    = TOTal log FIR luminosity [Lsun]
+   1.000          > FIR_LFIRFrac2Model = frac of LFIR_TOT to consider in fit
+   0.010          > FIR_ErrlogLFIR     = error in log L_FIR [dex]
+ 100.000          > FIR_RangelogLFIR   = Range in log L_FIR [dex]
+   1.000          > FIRChi2ScaleFactor = in units of chi2_OPTical...
+#
+# Based on data in Gn001.a3.FIRinfo.u0                                                                                 
+#
+#
+#
+# QH-Related data #
+QHR
+1                                                                > NQHR_Ys = Number of line-luminosities (Y) used in QHRc-fits
+0   4861.00  4340.00        0.0664       0.0000       0.0000     > IsELROn lambda_A lambda_B Err_logR RangelogR Chi2ScaleFactor
+1.000                                                            > Global weight of chi2_QHR wrt optical fit
+6563.00         2.20600     ?.?????             1.00000     ?.?????      0.00000       1.00000
+# lambda[Angs] frecomb   logY_TOT[Lsun]      YFrac2Model    ErrlogY     RangelogY  Chi2ScaleFactor
+#
+# Based on lines measured by Rosa in Gn001.a3.txt.u0.FMS2_k0.m3.CCC.m52_b_20G.v05                                                        
+# Distance used to compute Ys =  126.430 Mpc
+#
+# Output of MakeETCinfoFiles.for
+# This file = Gn001.a3.ETCinfo.CC                                                                                 
+# Cid@Granada - 01/Feb/2011
+#
+#
+#
+#
+#
+# PHO-related data #
+PHO
+0.01        > PHO_redshift
+2           > NPHO_Ys
+0.002       > PHO_GlobalChi2ScaleFactor
+NUV           GALEX.NUV.dat.txt           -35.956                 1.00                    0.02                 0                    0.5
+FUV           GALEX.FUV.dat.txt           -32.746                 1.00                    0.02                 0                    0.5
+#PHO_name(iY)  PHO_Filter_file(iY)   PHO_logY_TOT(iY)         PHO_YFrac2Model(iY)       PHO_ErrlogY(iY)      PHO_RangelogY(iY)  PHO_Chi2ScaleFactor(iY) 

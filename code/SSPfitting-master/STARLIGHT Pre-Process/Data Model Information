@@ -1,0 +1,15 @@
+MANGA
+z = 0.038393
+a_v = 0.2604
+survey_name = MANGA
+filename = manga-8158-1901
+PATH = manga-8158-1901-LINCUBE.fits
+
+
+
+PMAS
+z = 0.1593
+a_v = 1
+suvey_name = PMAS
+filename = KUG0210-078
+PATH = KUG0210-078.V500.rscube.fits

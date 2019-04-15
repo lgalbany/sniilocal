@@ -1,0 +1,21 @@
+1
+/Users/rafael/Starlight/KBasesDir/                          [base_dir]
+/Users/rafael/Starlight                                     [obs_dir]      
+/Users/rafael/Starlight                                     [mask_dir]
+/Users/rafael/Starlight                                     [etc_dir]
+/Users/rafael/Starlight                                     [out_dir]      
+-958372728                                                  [your phone number]
+5350.0                                                      [llow_SN]   lower-lambda of S/N window <-- Not relevant when error-spectrum is provided
+5850.0                                                      [lupp_SN]   upper-lambda of S/N window <-- Not relevant when error-spectrum is provided
+1000.0                                                      [Olsyn_ini] lower-lambda for fit
+8900.0                                                      [Olsyn_fin] upper-lambda for fit
+2.0                                                         [Odlsyn]    delta-lambda for fit
+1.0                                                         [fscale_chi2] fudge-factor for chi2
+FIT                                                         [FIT/FXK] Fit or Fix kinematics
+1                                                           [IsErrSpecAvailable]  1/0 = Yes/No
+1                                                           [IsFlagSpecAvailable] 1/0 = Yes/No
+1                                                           [IsPHOcOn] 1/0 = Yes/No  <=== !PHO! ATT: still needs coding + testing!
+0                                                           [IsQHRcOn] 1/0 = Yes/No  <=== !QHR!
+0                                                           [IsFIRcOn] 1/0 = Yes/No  <=== !FIR!
+1e-16                                                       [flux_unit] multiply spectrum in arq_obs by this value to obtain ergs/s/cm2/Angs
+spec.txt ETCinfo.txt 69.97 PMSv03.k1.config BASE.zca01 Mask.mC CCM 0.0 150.0 spec.out
